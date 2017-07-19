@@ -1,8 +1,14 @@
 - name: "Contact"
   link: "contact"
 
+- name: "Code&Data"
+  link: "code_data"
+
 - name: "Publications"
   link: "publications"
 
+- name: "People"
+  link: "people"
+
 - name: "Research"
-  link: "/researcher/"
+  link: "research"

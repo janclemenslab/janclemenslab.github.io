@@ -55,7 +55,7 @@ hr {
 }
 .pull-left {
     @extend .alignable;
-    float: left;
+    float: right;
 }
 .pull-right {
     @extend .alignable;
