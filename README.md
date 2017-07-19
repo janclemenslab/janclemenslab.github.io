@@ -1,2 +1,1 @@
-# Neural Computation and Behavior
-soon...
+[GitHub](https://github.com/bk2dcradle/researcher)
