@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Journal articles
+## Publications
 
 __Jan Clemens__, Nofar Ozeri, Mala Murthy   
 Dynamic-range adaptation in _Drosophila_ auditory receptor neurons supports song pattern recognition   
