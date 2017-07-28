@@ -13,12 +13,12 @@ Reported Drosophila courtship song rhythms remain data analysis artifacts. A rep
 in revision | [preprint](http://biorxiv.org/content/early/2017/05/20/140483) | [code](https://github.com/murthylab/noIPIcycles)    
 
 __Jan Clemens__, Jennifer Aufderheide (eq. contribution), Bernhard Ronacher   
-Evaluation of sensory cues for mating decisions in grasshoppers reveals influence of sexual selection   
-in press    
+Relative weighting of acoustic information during mating decisions in grasshoppers indicates signatures of sexual selection   
+[__2017__, __Journal of Comparative Physiology A__, online only](https://link.springer.com/article/10.1007/s00359-017-1200-x) | [pdf](pdf/clemens_2017_relative.pdf), [code&data](https://github.com/postpop/driftdiffusion)
 
 __Jan Clemens__, Mala Murthy   
 The use of computational modeling to link sensory processing with behavior in _Drosophila_   
-__2017__, To appear in: Celik, A., Wernet, M. _Decoding neural circuit structure and function: Cellular dissection using genetic model organisms_. Springer  | [Peerj prepint](https://peerj.com/preprints/2720/), [pdf](pdf/clemens_2017_chapter.pdf)
+__2017__, Celik, A., Wernet, M. (eds.) _Decoding neural circuit structure and function [Book chapter](https://link.springer.com/chapter/10.1007/978-3-319-57363-2_9) | [Peerj preprint](https://peerj.com/preprints/2720/), [pdf](pdf/clemens_2017_chapter.pdf)
 
 Philip Coen, Marjorie Xie, __Jan Clemens__, Mala Murthy   
 Sensorimotor transformations underlying variability in song intensity during _Drosophila_ courtship   
