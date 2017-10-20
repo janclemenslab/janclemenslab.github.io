@@ -9,12 +9,12 @@ Dynamic-range adaptation in _Drosophila_ auditory receptor neurons supports song
 in revision
 
 David Stern, __Jan Clemens__, Pip Coen, Adam Calhoun, Troy Shirangi, John Hogenesch, Ben Arthur, Mala Murthy   
-Reported Drosophila courtship song rhythms remain data analysis artifacts. A reply to Kyriacou et al (2017)   
-in revision | [preprint](http://biorxiv.org/content/early/2017/05/20/140483) | [code&data](https://github.com/murthylab/noIPIcycles)    
+Experimental and statistical reevaluation provides no evidence for Drosophila courtship song rhythms   
+[__2017__, __PNAS__, 114(37):9978-9983](http://www.pnas.org/content/114/37/9978.abstract) | [pdf](pdf/stern_2017_experimental.pdf), [biorxiv preprint](https://www.biorxiv.org/content/early/2017/08/09/140483), [code&data](https://github.com/murthylab/noIPIcycles)    
 
 __Jan Clemens__, Jennifer Aufderheide (eq. contribution), Bernhard Ronacher   
 Relative weighting of acoustic information during mating decisions in grasshoppers indicates signatures of sexual selection   
-[__2017__, __Journal of Comparative Physiology A__, online only](https://link.springer.com/article/10.1007/s00359-017-1200-x) | [pdf]({{ site.url }}/pdf/clemens_2017_relative.pdf), [code&data](https://github.com/postpop/driftdiffusion)
+[__2017__, __Journal of Comparative Physiology A__, 203(11):891-901](https://link.springer.com/article/10.1007/s00359-017-1200-x) | [pdf]({{ site.url }}/pdf/clemens_2017_relative.pdf), [code&data](https://github.com/postpop/driftdiffusion)
 
 __Jan Clemens__, Mala Murthy   
 The use of computational modeling to link sensory processing with behavior in _Drosophila_   
