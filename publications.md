@@ -4,7 +4,7 @@ layout: default
 
 ## Publications
 __Jan Clemens__\*, Philip Coen\*, Frederic A. Roemschied\*, Talmo Pereira, David Mazumder, Diego Pacheco, and Mala Murthy (\* eq. contribution)   
-Discovery of a new song mode in _Drosophila_ reveals hidden structure in the sensory and neural drivers of behavior
+Discovery of a new song mode in _Drosophila_ reveals hidden structure in the sensory and neural drivers of behavior   
 in review | [biorxiv preprint](https://www.biorxiv.org/content/early/2017/11/17/221044) | code&data [1](https://github.com/murthylab/pulseTypePipeline) & [2](https://github.com/murthylab/pulseTypeClassifier)
 
 __Jan Clemens__, Nofar Ozeri, Mala Murthy   
