@@ -3,16 +3,16 @@ layout: default
 ---
 
 ## Publications
-__Jan Clemens__\*, Philip Coen\*, Frederic A. Roemschied1\*, Talmo Pereira, David Mazumder, Diego Pacheco, and Mala Murthy (\* eq. contribution)
-Discovery of a new song mode in Drosophila reveals hidden structure in the sensory and neural drivers of behavior
+__Jan Clemens__\*, Philip Coen\*, Frederic A. Roemschied\*, Talmo Pereira, David Mazumder, Diego Pacheco, and Mala Murthy (\* eq. contribution)   
+Discovery of a new song mode in _Drosophila_ reveals hidden structure in the sensory and neural drivers of behavior
 in review | [biorxiv preprint](https://www.biorxiv.org/content/early/2017/11/17/221044) | code&data [1](https://github.com/murthylab/pulseTypePipeline) & [2](https://github.com/murthylab/pulseTypeClassifier)
 
 __Jan Clemens__, Nofar Ozeri, Mala Murthy   
-Dynamic-range adaptation in _Drosophila_ auditory receptor neurons supports song pattern recognition   
-in revision
+Fast intensity adaptation enhances the encoding of sound in _Drosophila_   
+in press, __Nature Communications__ | [biorxiv preprint](https://www.biorxiv.org/content/early/2017/12/03/228213)
 
 David Stern, __Jan Clemens__, Pip Coen, Adam Calhoun, Troy Shirangi, John Hogenesch, Ben Arthur, Mala Murthy   
-Experimental and statistical reevaluation provides no evidence for Drosophila courtship song rhythms   
+Experimental and statistical reevaluation provides no evidence for _Drosophila_ courtship song rhythms   
 [__2017__, __PNAS__, 114(37):9978-9983](http://www.pnas.org/content/114/37/9978.abstract) | [pdf](pdf/stern_2017_experimental.pdf), [biorxiv preprint](https://www.biorxiv.org/content/early/2017/08/09/140483), [code&data](https://github.com/murthylab/noIPIcycles)    
 
 __Jan Clemens__, Jennifer Aufderheide (eq. contribution), Bernhard Ronacher   
@@ -32,7 +32,7 @@ Connecting neural codes with behavior in the auditory system of _Drosophila_
 [__2015__, __Neuron__, 87(6):1332-1343](http://www.cell.com/neuron/abstract/S0896-6273(15)00708-4) | [pdf]({{ site.url }}/pdf/clemens_2015_connecting.pdf), [preview]({{ site.url }}/pdf/clemens_2015_connecting_preview.pdf), [press](http://www.princeton.edu/main/news/archive/S44/52/80E75/index.xml)
 
 Florian Rau, __Jan Clemens__, Viktor Naumov, Matthias Hennig, Susanne Schreiber   
-Firing-rate resonances in the peripheral auditory system of the cricket _Gryllys bimaculatus_    
+Firing-rate resonances in the peripheral auditory system of the cricket _Gryllus bimaculatus_    
 [__2015__, __Journal of Comparative Physiology A__, 201(11):1075-1090](http://link.springer.com/article/10.1007/s00359-015-1036-1) | [pdf]({{ site.url }}/pdf/rau_2015_firing.pdf)
 
 __Jan Clemens__, Florian Rau, Matthias Hennig, Jannis Hildebrandt  
@@ -83,6 +83,8 @@ Intensity invariance properties of auditory neurons compared to the statistics o
 
 From song to behavior in _Drosophila_.   
 07/2017 Drosophila neuroscience workshop, Crete, Greece.   
+11/2017 Cellular neurobiology group seminar, Göttingen, Germany   
+12/2017 MPI for dynamics and self-organization, Göttingen, Germany   
 
 Neural computations underlying acoustic communication in _Drosophila_.    
 09/2016 DZG Tagung (invited talk), Kiel, Germany,    
