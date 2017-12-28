@@ -10,12 +10,12 @@ We approach this problem by studying __acoustic communication__ in __insects__ u
 - __Computational tools__ serve a two-fold role in the lab: First, as methods for analyzing large behavioral and neuronal data sets. And second, as a glue that brings together descriptions of the nervous system from multiple levels - genes & molecules, small neural networks, or the behavior of the whole organism.
 
 Currently, we're focused on the following questions:
-- How do acoustic communication signals shape group dynamics?
 - How are acoustic signals efficiently filtered and encoded in the sensory periphery?
 - How does genetic variability within and across populations affect the neural processing of song?
 - How do the neural networks that recognize song evolve?
 - How is sensory information combined over time to inform behavior?
 - How is information routed to motor circuits to drive state-dependent or sex-specific behavioral responses to the same sensory stimulus? 
+- How do acoustic signals shape group dynamics?
 
 
 
