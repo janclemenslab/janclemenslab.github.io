@@ -9,7 +9,7 @@ in review | [biorxiv preprint](https://www.biorxiv.org/content/early/2017/11/17/
 
 __Jan Clemens__, Nofar Ozeri, Mala Murthy   
 Fast intensity adaptation enhances the encoding of sound in _Drosophila_   
-in press, __Nature Communications__ | [biorxiv preprint](https://www.biorxiv.org/content/early/2017/12/03/228213)
+[__2018__, __Nature Communications__, 9:134](https://www.nature.com/articles/s41467-017-02453-9) | [pdf](pdf/clemens_2018_fast.pdf), [biorxiv preprint](https://www.biorxiv.org/content/early/2017/12/03/228213)
 
 David Stern, __Jan Clemens__, Pip Coen, Adam Calhoun, Troy Shirangi, John Hogenesch, Ben Arthur, Mala Murthy   
 Experimental and statistical reevaluation provides no evidence for _Drosophila_ courtship song rhythms   
