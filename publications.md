@@ -3,17 +3,21 @@ layout: default
 ---
 
 ## Publications
+__Jan Clemens__\*, David Deutsch\*, Stephan Thiberge, and Mala Murthy (\* eq. contribution)   
+Shared Song Object Detector Neurons in _Drosophila_ Male and Female Brains Drive Divergent, Sex-Specific Behaviors   
+2018, submitted
+
 __Jan Clemens__\*, Philip Coen\*, Frederic A. Roemschied\*, Talmo Pereira, David Mazumder, Diego Pacheco, and Mala Murthy (\* eq. contribution)   
 Discovery of a new song mode in _Drosophila_ reveals hidden structure in the sensory and neural drivers of behavior   
 in press at Current Biology | [biorxiv preprint](https://www.biorxiv.org/content/early/2017/11/17/221044) | code&data [1](https://github.com/murthylab/pulseTypePipeline) & [2](https://github.com/murthylab/pulseTypeClassifier)
 
 __Jan Clemens__, Nofar Ozeri, Mala Murthy   
 Fast intensity adaptation enhances the encoding of sound in _Drosophila_   
-[__2018__, __Nature Communications__, 9:134](https://www.nature.com/articles/s41467-017-02453-9) | [pdf](pdf/clemens_2018_fast.pdf), [biorxiv preprint](https://www.biorxiv.org/content/early/2017/12/03/228213)
+[__2018__, __Nature Communications__, 9:134](https://www.nature.com/articles/s41467-017-02453-9) | [pdf]({{ site.url }}/pdf/clemens_2018_fast.pdf), [biorxiv preprint](https://www.biorxiv.org/content/early/2017/12/03/228213)
 
 David Stern, __Jan Clemens__, Pip Coen, Adam Calhoun, Troy Shirangi, John Hogenesch, Ben Arthur, Mala Murthy   
 Experimental and statistical reevaluation provides no evidence for _Drosophila_ courtship song rhythms   
-[__2017__, __PNAS__, 114(37):9978-9983](http://www.pnas.org/content/114/37/9978.abstract) | [pdf](pdf/stern_2017_experimental.pdf), [biorxiv preprint](https://www.biorxiv.org/content/early/2017/08/09/140483), [code&data](https://github.com/murthylab/noIPIcycles)    
+[__2017__, __PNAS__, 114(37):9978-9983](http://www.pnas.org/content/114/37/9978.abstract) | [pdf]({{ site.url }}/pdf/stern_2017_experimental.pdf), [biorxiv preprint](https://www.biorxiv.org/content/early/2017/08/09/140483), [code&data](https://github.com/murthylab/noIPIcycles)    
 
 __Jan Clemens__, Jennifer Aufderheide (eq. contribution), Bernhard Ronacher   
 Relative weighting of acoustic information during mating decisions in grasshoppers indicates signatures of sexual selection   
