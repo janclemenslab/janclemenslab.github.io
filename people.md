@@ -8,6 +8,7 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 
 | Jan Clemens | group leader | [web](http://postpop.github.io), [github](http://github.com/postpop) |
 | Gesa Homann | lab tech | |
+| Elsa Steinfath | graduate student | |
 | Emmanuelle Maciel | intern | |
 | Marina Slashcheva | rotation student | |
 | Irene Aji | rotation student | |

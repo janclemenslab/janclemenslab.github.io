@@ -4,7 +4,7 @@ layout: default
 
 ## Publications
 __Jan Clemens__\*, David Deutsch\*, Stephan Thiberge, and Mala Murthy (\* eq. contribution)   
-Shared Song Object Detector Neurons in _Drosophila_ Male and Female Brains Drive Divergent, Sex-Specific Behaviors   
+Shared song object detector neurons in _Drosophila_ male and female brains drive divergent, sex-specific behaviors     
 2018, submitted
 
 __Jan Clemens__\*, Philip Coen\*, Frederic A. Roemschied\*, Talmo Pereira, David Mazumder, Diego Pacheco, and Mala Murthy (\* eq. contribution)   
