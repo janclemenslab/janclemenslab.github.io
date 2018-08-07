@@ -5,19 +5,19 @@ layout: default
 ## Publications
 __Jan Clemens__\*, David Deutsch\*, Stephan Thiberge, and Mala Murthy (\* eq. contribution)   
 Shared song object detector neurons in _Drosophila_ male and female brains drive divergent, sex-specific behaviors     
-2018, in review | [biorxiv preprint](https://www.biorxiv.org/content/early/2018/07/10/366765), [pdf]({{ site.url }}/pdf/clemens_2018_shared_preprint.pdf)
+2018, in review | [biorxiv](https://www.biorxiv.org/content/early/2018/07/10/366765), [pdf]({{ site.url }}/pdf/clemens_2018_shared_preprint.pdf)
 
 __Jan Clemens__\*, Philip Coen\*, Frederic A. Roemschied\*, Talmo Pereira, David Mazumder, Diego Pacheco, and Mala Murthy (\* eq. contribution)   
 Discovery of a new song mode in _Drosophila_ reveals hidden structure in the sensory and neural drivers of behavior   
-[__2018__, __Current Biology__, 28:2400–2412](https://www.sciencedirect.com/science/article/pii/S0960982218307735), [pdf]({{ site.url }}/pdf/clemens_2018_discovery.pdf), [dispatch]({{ site.url }}/pdf/bivort_2018_courtship.pdf), [press](https://www.the-scientist.com/news-opinion/fruit-fly-males-woo-females-with-three-songs--not-two-64566), [biorxiv preprint](https://www.biorxiv.org/content/early/2017/11/17/221044) | code&data [1](https://github.com/murthylab/pulseTypePipeline) & [2](https://github.com/murthylab/pulseTypeClassifier)
+[__2018__, __Current Biology__, 28:2400–2412](https://www.sciencedirect.com/science/article/pii/S0960982218307735) | [pdf]({{ site.url }}/pdf/clemens_2018_discovery.pdf), [dispatch]({{ site.url }}/pdf/bivort_2018_courtship.pdf), [press](https://www.the-scientist.com/news-opinion/fruit-fly-males-woo-females-with-three-songs--not-two-64566), [biorxiv](https://www.biorxiv.org/content/early/2017/11/17/221044) | code&data [1](https://github.com/murthylab/pulseTypePipeline) & [2](https://github.com/murthylab/pulseTypeClassifier)
 
 __Jan Clemens__, Nofar Ozeri, Mala Murthy   
 Fast intensity adaptation enhances the encoding of sound in _Drosophila_   
-[__2018__, __Nature Communications__, 9:134](https://www.nature.com/articles/s41467-017-02453-9) | [pdf]({{ site.url }}/pdf/clemens_2018_fast.pdf), [biorxiv preprint](https://www.biorxiv.org/content/early/2017/12/03/228213)
+[__2018__, __Nature Communications__, 9:134](https://www.nature.com/articles/s41467-017-02453-9) | [pdf]({{ site.url }}/pdf/clemens_2018_fast.pdf), [biorxiv ](https://www.biorxiv.org/content/early/2017/12/03/228213)
 
 David Stern, __Jan Clemens__, Pip Coen, Adam Calhoun, Troy Shirangi, John Hogenesch, Ben Arthur, Mala Murthy   
 Experimental and statistical reevaluation provides no evidence for _Drosophila_ courtship song rhythms   
-[__2017__, __PNAS__, 114(37):9978-9983](http://www.pnas.org/content/114/37/9978.abstract) | [pdf]({{ site.url }}/pdf/stern_2017_experimental.pdf), [biorxiv preprint](https://www.biorxiv.org/content/early/2017/08/09/140483), [code&data](https://github.com/murthylab/noIPIcycles)    
+[__2017__, __PNAS__, 114(37):9978-9983](http://www.pnas.org/content/114/37/9978.abstract) | [pdf]({{ site.url }}/pdf/stern_2017_experimental.pdf), [biorxiv](https://www.biorxiv.org/content/early/2017/08/09/140483), [code&data](https://github.com/murthylab/noIPIcycles)    
 
 __Jan Clemens__, Jennifer Aufderheide (eq. contribution), Bernhard Ronacher   
 Relative weighting of acoustic information during mating decisions in grasshoppers indicates signatures of sexual selection   
