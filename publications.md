@@ -3,6 +3,11 @@ layout: default
 ---
 
 ## Publications
+
+Christa A. Baker, __Jan Clemens__\*, and Mala Murthy\* (\* co-corresponding authors)   
+Acoustic Pattern Recognition and Courtship Songs: Insights from Insects   
+[__in press__, __Annual Reviews of Neuroscience__](https://www.annualreviews.org/neuro/planned)
+
 __Jan Clemens__\*, David Deutsch\*, Stephan Thiberge, and Mala Murthy (\* eq. contribution)   
 Shared song object detector neurons in _Drosophila_ male and female brains drive divergent, sex-specific behaviors     
 2018, in review | [biorxiv](https://www.biorxiv.org/content/early/2018/07/10/366765), [pdf]({{ site.url }}/pdf/clemens_2018_shared_preprint.pdf)

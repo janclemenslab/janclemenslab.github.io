@@ -9,6 +9,13 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 | Jan Clemens | group leader | [web](http://postpop.github.io), [github](http://github.com/postpop) |
 | Gesa Homann | lab tech | |
 | Elsa Steinfath | graduate student | |
+| Deniz Yuzak | graduate student | |
+| Adrian Palacios | master student | |
+
+### Alumni
+| Julia Eckardt | rotation student | |
+| Karla Riveira | rotation student | |
+| Hendrik Reiser | rotation student | |
 | Emmanuelle Maciel | intern | |
 | Marina Slashcheva | rotation student | |
 | Irene Aji | rotation student | |
