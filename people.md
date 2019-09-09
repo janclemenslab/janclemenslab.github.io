@@ -10,12 +10,5 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 | Gesa Homann | lab tech | |
 | Elsa Steinfath | graduate student | |
 | Deniz Yuzak | graduate student | |
+| Julian Rottschäfer | graduate student | |
 | Adrian Palacios | master student | |
-
-### Alumni
-| Julia Eckardt | rotation student | |
-| Karla Riveira | rotation student | |
-| Hendrik Reiser | rotation student | |
-| Emmanuelle Maciel | intern | |
-| Marina Slashcheva | rotation student | |
-| Irene Aji | rotation student | |
