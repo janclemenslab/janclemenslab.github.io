@@ -4,17 +4,22 @@ layout: default
 
 ## Publications
 
-Christa A. Baker, __Jan Clemens__\*, and Mala Murthy\* (\* co-corresponding authors)   
-Acoustic Pattern Recognition and Courtship Songs: Insights from Insects   
-[__in press__, __Annual Reviews of Neuroscience__](https://www.annualreviews.org/neuro/planned), [pdf]({{ site.url }}/pdf/baker_2019_acoustic.pdf)
+__Jan Clemens__, Matthias Hennig   
+Coding strategies in insects   
+To appear, _The Senses  - Audition (2nd edition)_, book chapter
 
-__Jan Clemens__\*, David Deutsch\*, Stephan Thiberge, and Mala Murthy (\* eq. contribution)   
+David Deutsch, __Jan Clemens__ (co-first author), Stephan Thiberge, and Mala Murthy   
 Shared song object detector neurons in _Drosophila_ male and female brains drive divergent, sex-specific behaviors     
-2018, in review | [biorxiv](https://www.biorxiv.org/content/early/2018/07/10/366765), [pdf]({{ site.url }}/pdf/clemens_2018_shared_preprint.pdf)
+__2019__, __Current Biology__, in press | [biorxiv](https://www.biorxiv.org/content/10.1101/366765v2), [code](https://github.com/murthylab/FLyTRAP)
+
+Christa Baker, __Jan Clemens__ (co-corresponding author), and Mala Murthy   
+Acoustic pattern recognition and courtship songs: insights from insects   
+[__2019__, __Annual Reviews of Neuroscience__, 42:129-147](https://www.annualreviews.org/doi/full/10.1146/annurev-neuro-080317-061839), [pdf]({{ site.url }}/pdf/baker_2019_acoustic.pdf)
+
 
 __Jan Clemens__\*, Philip Coen\*, Frederic A. Roemschied\*, Talmo Pereira, David Mazumder, Diego Pacheco, and Mala Murthy (\* eq. contribution)   
 Discovery of a new song mode in _Drosophila_ reveals hidden structure in the sensory and neural drivers of behavior   
-[__2018__, __Current Biology__, 28:2400–2412](https://www.sciencedirect.com/science/article/pii/S0960982218307735) | [pdf]({{ site.url }}/pdf/clemens_2018_discovery.pdf), [dispatch]({{ site.url }}/pdf/bivort_2018_courtship.pdf), [press](https://www.the-scientist.com/news-opinion/fruit-fly-males-woo-females-with-three-songs--not-two-64566), [biorxiv](https://www.biorxiv.org/content/early/2017/11/17/221044) | code&data [1](https://github.com/murthylab/pulseTypePipeline) & [2](https://github.com/murthylab/pulseTypeClassifier)
+[__2018__, __Current Biology__, 28:2400–2412](https://www.sciencedirect.com/science/article/pii/S0960982218307735) | [pdf]({{ site.url }}/pdf/clemens_2018_discovery.pdf), [dispatch]({{ site.url }}/pdf/bivort_2018_courtship.pdf), [press](https://www.the-scientist.com/news-opinion/fruit-fly-males-woo-females-with-three-songs--not-two-64566), [biorxiv](https://www.biorxiv.org/content/early/2017/11/17/221044), code&data [1](https://github.com/murthylab/pulseTypePipeline) & [2](https://github.com/murthylab/pulseTypeClassifier)
 
 __Jan Clemens__, Nofar Ozeri, Mala Murthy   
 Fast intensity adaptation enhances the encoding of sound in _Drosophila_   
@@ -91,6 +96,7 @@ Intensity invariance properties of auditory neurons compared to the statistics o
 ### Invited talks
 
 From song to behavior in _Drosophila_.   
+03/2019 Bi-annual meeting of the German Neuroscience Society, Göttingen, Germany.   
 05/2018 Neuroscience Department seminar, Oldenburg, Germany.   
 07/2017 Drosophila neuroscience workshop, Crete, Greece.   
 11/2017 Cellular neurobiology group seminar, Göttingen, Germany   
