@@ -9,8 +9,8 @@ Coding strategies in insects
 To appear, _The Senses  - Audition (2nd edition)_, book chapter
 
 David Deutsch, __Jan Clemens__ (co-first author), Stephan Thiberge, and Mala Murthy   
-Shared song object detector neurons in _Drosophila_ male and female brains drive divergent, sex-specific behaviors     
-__2019__, __Current Biology__, in press | [biorxiv](https://www.biorxiv.org/content/10.1101/366765v2), [code](https://github.com/murthylab/FLyTRAP)
+Shared song object detector neurons in _Drosophila_ male and female brains drive divergent, sex-specific behaviors   
+[__2019__, __Current Biology__, 23:3200-3215](https://www.sciencedirect.com/science/article/pii/S0960982219310243) | [pdf]({{ site.url }}/pdf/Deutsch_2019_shared.pdf), [biorxiv](https://www.biorxiv.org/content/10.1101/366765v2), [code](https://github.com/murthylab/FLyTRAP)
 
 Christa Baker, __Jan Clemens__ (co-corresponding author), and Mala Murthy   
 Acoustic pattern recognition and courtship songs: insights from insects   
