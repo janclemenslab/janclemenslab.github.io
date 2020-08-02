@@ -6,11 +6,11 @@ layout: default
 
 __Jan Clemens__, Stefan Schöneich, Konstantinos Kostarakos, R. Matthias Hennig, Berthold Hedwig   
 A small, computationally flexible network produces the phenotypic diversity of song recognition in crickets   
-__2020__, submitted, [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.27.221655v1)
+__2020__, in review, [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.27.221655v1)
 
 __Jan Clemens__, Bernhard Ronacher, Michael Reichert   
 Sex-specific speed-accuracy tradeoffs shape neural processing of acoustic signals   
-__2020__, submitted, [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.20.212431v1) | [code](https://github.com/postpop/driftdiffusion)   
+__2020__, in review, [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.20.212431v1) | [code](https://github.com/postpop/driftdiffusion)   
 
 __Jan Clemens__, Matthias Hennig   
 Coding strategies in insects   
