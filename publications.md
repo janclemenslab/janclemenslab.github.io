@@ -14,7 +14,7 @@ __2020__, in review, [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.2
 
 __Jan Clemens__, Matthias Hennig   
 Coding strategies in insects   
-__2020__, _The Senses  - Audition (2nd edition)_, [book chapter](https://www.sciencedirect.com/science/article/pii/B9780128093245241849) | [pdf]({{ site.url }}/pdf/clemens_2020_coding.pdf)
+[__2020__, _The Senses  - Audition (2nd edition)_, book chapter](https://www.sciencedirect.com/science/article/pii/B9780128093245241849) | [pdf]({{ site.url }}/pdf/clemens_2020_coding.pdf)
 
 David Deutsch, __Jan Clemens__ (co-first author), Stephan Thiberge, Georgia Guan, and Mala Murthy   
 Shared song object detector neurons in _Drosophila_ male and female brains drive divergent, sex-specific behaviors   
