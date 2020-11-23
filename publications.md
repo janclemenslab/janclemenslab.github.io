@@ -4,6 +4,8 @@ layout: default
 
 ## Publications
 
+
+
 __Jan Clemens__, Stefan Schöneich, Konstantinos Kostarakos, R. Matthias Hennig, Berthold Hedwig   
 A small, computationally flexible network produces the phenotypic diversity of song recognition in crickets   
 __2020__, in review, [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.27.221655v1)
@@ -12,13 +14,17 @@ __Jan Clemens__, Bernhard Ronacher, Michael Reichert
 Sex-specific speed-accuracy tradeoffs shape neural processing of acoustic signals   
 __2020__, in review, [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.20.212431v1) | [code](https://github.com/postpop/driftdiffusion)   
 
+Deutsch, D, Pacheco, DA, Encarnacion-Rivera, L, Pereira, T, Fathy, __Clemens, J__, Girardin, C, R, Calhoun, A, Ireland, EC, Burke, AT, Dorkenwald, S, McKellar, C, Macrina, T, Lu, R, Lee, K, Kemnitz, N, Ih, D, Castro, M, Halageri, A, Jordan, C, Silversmith, W, Wu, J, Seung, HS, and Murthy, M.   
+The neural basis for a persistent internal state in _Drosophila_ females.   
+[__2020__, eLife](https://elifesciences.org/articles/59502) | [pdf]({{ site.url }}/pdf/deutsch_2020_neural.pdf)
+
 __Jan Clemens__, Matthias Hennig   
 Coding strategies in insects   
 [__2020__, _The Senses  - Audition (2nd edition)_, book chapter](https://www.sciencedirect.com/science/article/pii/B9780128093245241849) | [pdf]({{ site.url }}/pdf/clemens_2020_coding.pdf)
 
 David Deutsch, __Jan Clemens__ (co-first author), Stephan Thiberge, Georgia Guan, and Mala Murthy   
 Shared song object detector neurons in _Drosophila_ male and female brains drive divergent, sex-specific behaviors   
-[__2019__, __Current Biology__, 23:3200-3215](https://www.sciencedirect.com/science/article/pii/S0960982219310243) | [pdf]({{ site.url }}/pdf/Deutsch_2019_shared.pdf), [biorxiv](https://www.biorxiv.org/content/10.1101/366765v2), [code](https://github.com/murthylab/FLyTRAP)
+[__2019__, __Current Biology__, 23:3200-3215](https://www.sciencedirect.com/science/article/pii/S0960982219310243) | [pdf]({{ site.url }}/pdf/deutsch_2019_shared.pdf), [biorxiv](https://www.biorxiv.org/content/10.1101/366765v2), [code](https://github.com/murthylab/FLyTRAP)
 
 Christa Baker, __Jan Clemens__ (co-corresponding author), and Mala Murthy   
 Acoustic pattern recognition and courtship songs: insights from insects   
