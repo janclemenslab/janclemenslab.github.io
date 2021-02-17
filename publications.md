@@ -4,7 +4,9 @@ layout: default
 
 ## Publications
 
-
+Elsa Steinfath, Adrian Palacios, Julian Rottschäfer, Deniz Yuezak, Jan Clemens   
+Fast and accurate annotation of acoustic signals with deep neural networks   
+__in preparation__, [documentation and code](https://janclemenslab.org/deepss/intro.html)
 
 __Jan Clemens__, Stefan Schöneich, Konstantinos Kostarakos, R. Matthias Hennig, Berthold Hedwig   
 A small, computationally flexible network produces the phenotypic diversity of song recognition in crickets   
@@ -12,7 +14,7 @@ __2020__, in revision, [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07
 
 __Jan Clemens__, Bernhard Ronacher, Michael Reichert   
 Sex-specific speed-accuracy tradeoffs shape neural processing of acoustic signals in a grasshopper   
-__2021__, in press at Proceedings of the Royal Society B | [pdf]({{ site.url }}/pdf/clemens_2021_sexspecific.pdf), [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.20.212431v2) | [code](https://github.com/postpop/driftdiffusion)   
+[__2021__, Proceedings of the Royal Society B](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.0005) | [pdf]({{ site.url }}/pdf/clemens_2021_sexspecific.pdf), [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.20.212431v2) | [code](https://github.com/postpop/driftdiffusion)   
 
 Deutsch, D, Pacheco, DA, Encarnacion-Rivera, L, Pereira, T, Fathy, __Clemens, J__, Girardin, C, R, Calhoun, A, Ireland, EC, Burke, AT, Dorkenwald, S, McKellar, C, Macrina, T, Lu, R, Lee, K, Kemnitz, N, Ih, D, Castro, M, Halageri, A, Jordan, C, Silversmith, W, Wu, J, Seung, HS, and Murthy, M.   
 The neural basis for a persistent internal state in _Drosophila_ females.   
