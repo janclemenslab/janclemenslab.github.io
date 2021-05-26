@@ -10,11 +10,11 @@ __2021__, submitted, [preprint](biorxiv) | [pdf]({{ site.url }}/pdf/clemens_2021
 
 Elsa Steinfath, Adrian Palacios, Julian Rottschäfer, Deniz Yuezak, Jan Clemens
 Fast and accurate annotation of acoustic signals with deep neural networks
-__2021__, in review, [preprint](https://www.biorxiv.org/content/10.1101/2021.03.26.436927v1) | [pdf]({{ site.url }}/pdf/steinfath_2021_fast.pdf) | [documentation and code](https://janclemenslab.org/deepss/intro.html)
+__2021__, in revision, [preprint](https://www.biorxiv.org/content/10.1101/2021.03.26.436927v1) | [pdf]({{ site.url }}/pdf/steinfath_2021_fast.pdf) | [documentation and code](https://janclemenslab.org/deepss/intro.html)
 
 __Jan Clemens__, Stefan Schöneich, Konstantinos Kostarakos, R. Matthias Hennig, Berthold Hedwig
 A small, computationally flexible network produces the phenotypic diversity of song recognition in crickets
-__2020__, in revision, [preprint](https://www.biorxiv.org/content/10.1101/2020.07.27.221655v1) | [pdf](({{ site.url }}/pdf/clemens_2020_small.pdf) | [code](https://github.com/janclemenslab/cricketnet)
+__2020__, in revision, [preprint](https://www.biorxiv.org/content/10.1101/2020.07.27.221655v1) | [pdf]({{ site.url }}/pdf/clemens_2020_small.pdf) | [code](https://github.com/janclemenslab/cricketnet)
 
 __Jan Clemens__, Bernhard Ronacher, Michael Reichert
 Sex-specific speed-accuracy tradeoffs shape neural processing of acoustic signals in a grasshopper
