@@ -8,13 +8,14 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 
 | Jan Clemens | group leader | |
 | Christine Gündner | lab tech | |
+| Jan Schöning | lab tech | |
 | Afshin Khalili | postdoc | |
 | Elsa Steinfath | graduate student | |
 | Deniz Yuzak | graduate student | |
 | Julian Rottschäfer | graduate student | |
 | Adrian Palacios | graduate student | |
 | Sarath Ravindran | graduate student | |
+| Winston Mann | graduate student | |
 | Melanie Stenger | master student | |
-| Jaya Sowkyadha | master student | |
 | Daseung Cho | master student | |
 
