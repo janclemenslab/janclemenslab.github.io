@@ -5,7 +5,7 @@ layout: default
 ## Publications
 
 Jan Clemens, Mala Murthy   
-Quadratic and adaptive computations yield an efficient representation of song in _Drosophila_ auditory receptor neurons   
+Quadratic and sadaptive computations yield an efficient representation of song in _Drosophila_ auditory receptor neurons   
 __2021__, in review, [preprint](https://www.biorxiv.org/content/10.1101/2021.05.26.445391v1) | [pdf]({{ site.url }}/pdf/clemens_2021_quadratic.pdf) | [code and data](https://github.com/janclemenslab/quadratic-adaptive) | [more code](https://github.com/janclemenslab/glm_utils/blob/master/demo/quadratic_filter.ipynb)
 
 Elsa Steinfath, Adrian Palacios, Julian Rottschäfer, Deniz Yuezak, Jan Clemens   
