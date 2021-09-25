@@ -10,7 +10,7 @@ __2021__, in review, [preprint](https://www.biorxiv.org/content/10.1101/2021.05.
 
 Elsa Steinfath, Adrian Palacios, Julian Rottschäfer, Deniz Yuezak, Jan Clemens   
 Fast and accurate annotation of acoustic signals with deep neural networks   
-__2021__, in revision, [preprint](https://www.biorxiv.org/content/10.1101/2021.03.26.436927v1)| [pdf]({{ site.url }}/pdf/steinfath_2021_fast.pdf) | [documentation and code](https://janclemenslab.org/das/intro.html)
+__2021__, in revision, [preprint](https://www.biorxiv.org/content/10.1101/2021.03.26.436927)| [pdf]({{ site.url }}/pdf/steinfath_2021_fast.pdf) | [documentation and code](https://janclemenslab.org/das/intro.html)
 
 __Jan Clemens__, Stefan Schöneich, Konstantinos Kostarakos, R. Matthias Hennig, Berthold Hedwig   
 A small, computationally flexible network produces the phenotypic diversity of song recognition in crickets   
