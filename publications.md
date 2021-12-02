@@ -8,9 +8,9 @@ __Jan Clemens__, Mala Murthy
 Quadratic and adaptive computations yield an efficient representation of song in _Drosophila_ auditory receptor neurons   
 __2021__, in review, [preprint](https://www.biorxiv.org/content/10.1101/2021.05.26.445391v1) | [pdf]({{ site.url }}/pdf/clemens_2021_quadratic.pdf) | [code and data](https://github.com/janclemenslab/quadratic-adaptive) | [more code](https://github.com/janclemenslab/glm_utils/blob/master/demo/quadratic_filter.ipynb)
 
-__Jan Clemens__, Stefan Schöneich, Konstantinos Kostarakos, R. Matthias Hennig, Berthold Hedwig   
+__Jan Clemens__, Stefan Schöneich, Konstantinos Kostarakos, Matthias Hennig, Berthold Hedwig   
 A small, computationally flexible network produces the phenotypic diversity of song recognition in crickets   
-__2020__, in revision, [preprint](https://www.biorxiv.org/content/10.1101/2020.07.27.221655v2) | [pdf]({{ site.url }}/pdf/clemens_2021_small.pdf) | [code](https://github.com/janclemenslab/cricketnet)
+__2021__, eLife, in press, [preprint](https://www.biorxiv.org/content/10.1101/2020.07.27.221655v2) | [pdf]({{ site.url }}/pdf/clemens_2021_small.pdf) | [code](https://github.com/janclemenslab/cricketnet)
 
 Elsa Steinfath, Adrian Palacios, Julian Rottschäfer, Deniz Yuezak, __Jan Clemens__   
 Fast and accurate annotation of acoustic signals with deep neural networks   
