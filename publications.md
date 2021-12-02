@@ -10,7 +10,7 @@ __2021__, in review, [preprint](https://www.biorxiv.org/content/10.1101/2021.05.
 
 __Jan Clemens__, Stefan Schöneich, Konstantinos Kostarakos, Matthias Hennig, Berthold Hedwig   
 A small, computationally flexible network produces the phenotypic diversity of song recognition in crickets   
-[__2021__, eLife, 10:e61475](https://elifesciences.org/articles/61475) [pdf]({{ site.url }}/pdf/clemens_2021_small.pdf), [preprint](https://www.biorxiv.org/content/10.1101/2020.07.27.221655v2),  [code](https://github.com/janclemenslab/cricketnet)
+[__2021__, eLife, 10:e61475](https://elifesciences.org/articles/61475) | [pdf]({{ site.url }}/pdf/clemens_2021_small.pdf), [preprint](https://www.biorxiv.org/content/10.1101/2020.07.27.221655v2),  [code](https://github.com/janclemenslab/cricketnet)
 
 Elsa Steinfath, Adrian Palacios, Julian Rottschäfer, Deniz Yuezak, __Jan Clemens__   
 Fast and accurate annotation of acoustic signals with deep neural networks   
