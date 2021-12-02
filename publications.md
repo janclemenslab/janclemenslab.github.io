@@ -6,20 +6,20 @@ layout: default
 
 __Jan Clemens__, Mala Murthy   
 Quadratic and adaptive computations yield an efficient representation of song in _Drosophila_ auditory receptor neurons   
-__2021__, in review, [preprint](https://www.biorxiv.org/content/10.1101/2021.05.26.445391v1) | [pdf]({{ site.url }}/pdf/clemens_2021_quadratic.pdf) | [code and data](https://github.com/janclemenslab/quadratic-adaptive) | [more code](https://github.com/janclemenslab/glm_utils/blob/master/demo/quadratic_filter.ipynb)
+__2021__, in review, [preprint](https://www.biorxiv.org/content/10.1101/2021.05.26.445391v1) | [pdf]({{ site.url }}/pdf/clemens_2021_quadratic.pdf), [code and data](https://github.com/janclemenslab/quadratic-adaptive), [more code](https://github.com/janclemenslab/glm_utils/blob/master/demo/quadratic_filter.ipynb)
 
 __Jan Clemens__, Stefan Schöneich, Konstantinos Kostarakos, Matthias Hennig, Berthold Hedwig   
 A small, computationally flexible network produces the phenotypic diversity of song recognition in crickets   
-[__2021__, eLife, 10:e61475](https://elifesciences.org/articles/61475) [pdf]({{ site.url }}/pdf/clemens_2021_small.pdf), [preprint](https://www.biorxiv.org/content/10.1101/2020.07.27.221655v2) | [code](https://github.com/janclemenslab/cricketnet)
+[__2021__, eLife, 10:e61475](https://elifesciences.org/articles/61475) [pdf]({{ site.url }}/pdf/clemens_2021_small.pdf), [preprint](https://www.biorxiv.org/content/10.1101/2020.07.27.221655v2),  [code](https://github.com/janclemenslab/cricketnet)
 
 Elsa Steinfath, Adrian Palacios, Julian Rottschäfer, Deniz Yuezak, __Jan Clemens__   
 Fast and accurate annotation of acoustic signals with deep neural networks   
-[__2021__, eLife, 10:e68837](https://elifesciences.org/articles/68837) | [pdf]({{ site.url }}/pdf/steinfath_2021_fast.pdf), [preprint](https://www.biorxiv.org/content/10.1101/2021.03.26.436927) | [documentation and code](https://janclemenslab.org/das/intro.html) 
+[__2021__, eLife, 10:e68837](https://elifesciences.org/articles/68837) | [pdf]({{ site.url }}/pdf/steinfath_2021_fast.pdf), [preprint](https://www.biorxiv.org/content/10.1101/2021.03.26.436927), [documentation and code](https://janclemenslab.org/das/intro.html) 
 
 
 __Jan Clemens__, Bernhard Ronacher, Michael Reichert   
 Sex-specific speed-accuracy tradeoffs shape neural processing of acoustic signals in a grasshopper   
-[__2021__, Proceedings of the Royal Society B, 287:20210005](https://doi.org/10.1098/rspb.2021.0005) | [pdf]({{ site.url }}/pdf/clemens_2021_sexspecific.pdf), [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.20.212431v2) | [code](https://github.com/postpop/driftdiffusion)   
+[__2021__, Proceedings of the Royal Society B, 287:20210005](https://doi.org/10.1098/rspb.2021.0005) | [pdf]({{ site.url }}/pdf/clemens_2021_sexspecific.pdf), [preprint](https://www.biorxiv.org/content/10.1101/2020.07.20.212431v2), [code](https://github.com/postpop/driftdiffusion)   
 
 Deutsch, D, Pacheco, DA, Encarnacion-Rivera, L, Pereira, T, Fathy, __Clemens, J__, Girardin, C, R, Calhoun, A, Ireland, EC, Burke, AT, Dorkenwald, S, McKellar, C, Macrina, T, Lu, R, Lee, K, Kemnitz, N, Ih, D, Castro, M, Halageri, A, Jordan, C, Silversmith, W, Wu, J, Seung, HS, and Murthy, M.   
 The neural basis for a persistent internal state in _Drosophila_ females.   
@@ -31,7 +31,7 @@ Coding strategies in insects
 
 David Deutsch, __Jan Clemens__ (co-first author), Stephan Thiberge, Georgia Guan, and Mala Murthy   
 Shared song object detector neurons in _Drosophila_ male and female brains drive divergent, sex-specific behaviors   
-[__2019__, Current Biology, 23:3200-3215](https://www.sciencedirect.com/science/article/pii/S0960982219310243) | [pdf]({{ site.url }}/pdf/Deutsch_2019_shared.pdf), [biorxiv](https://www.biorxiv.org/content/10.1101/366765v2), [code](https://github.com/murthylab/FLyTRAP)
+[__2019__, Current Biology, 23:3200-3215](https://www.sciencedirect.com/science/article/pii/S0960982219310243) | [pdf]({{ site.url }}/pdf/Deutsch_2019_shared.pdf), [preprint](https://www.biorxiv.org/content/10.1101/366765v2), [code](https://github.com/murthylab/FLyTRAP)
 
 Christa Baker, __Jan Clemens__ (co-corresponding author), and Mala Murthy   
 Acoustic pattern recognition and courtship songs: insights from insects   
@@ -40,15 +40,15 @@ Acoustic pattern recognition and courtship songs: insights from insects
 
 __Jan Clemens__\*, Philip Coen\*, Frederic A. Roemschied\*, Talmo Pereira, David Mazumder, Diego Pacheco, and Mala Murthy (\* eq. contribution)   
 Discovery of a new song mode in _Drosophila_ reveals hidden structure in the sensory and neural drivers of behavior   
-[__2018__, Current Biology, 28:2400–2412](https://www.sciencedirect.com/science/article/pii/S0960982218307735) | [pdf]({{ site.url }}/pdf/clemens_2018_discovery.pdf), [dispatch]({{ site.url }}/pdf/bivort_2018_courtship.pdf), [press](https://www.the-scientist.com/news-opinion/fruit-fly-males-woo-females-with-three-songs--not-two-64566), [biorxiv](https://www.biorxiv.org/content/early/2017/11/17/221044), code&data [1](https://github.com/murthylab/pulseTypePipeline) & [2](https://github.com/murthylab/pulseTypeClassifier)
+[__2018__, Current Biology, 28:2400–2412](https://www.sciencedirect.com/science/article/pii/S0960982218307735) | [pdf]({{ site.url }}/pdf/clemens_2018_discovery.pdf), [dispatch]({{ site.url }}/pdf/bivort_2018_courtship.pdf), [press](https://www.the-scientist.com/news-opinion/fruit-fly-males-woo-females-with-three-songs--not-two-64566), [preprint](https://www.biorxiv.org/content/early/2017/11/17/221044), code&data [1](https://github.com/murthylab/pulseTypePipeline) & [2](https://github.com/murthylab/pulseTypeClassifier)
 
 __Jan Clemens__, Nofar Ozeri, Mala Murthy   
 Fast intensity adaptation enhances the encoding of sound in _Drosophila_   
-[__2018__, Nature Communications, 9:134](https://www.nature.com/articles/s41467-017-02453-9) | [pdf]({{ site.url }}/pdf/clemens_2018_fast.pdf), [biorxiv ](https://www.biorxiv.org/content/early/2017/12/03/228213)
+[__2018__, Nature Communications, 9:134](https://www.nature.com/articles/s41467-017-02453-9) | [pdf]({{ site.url }}/pdf/clemens_2018_fast.pdf), [preprint](https://www.biorxiv.org/content/early/2017/12/03/228213)
 
 David Stern, __Jan Clemens__, Pip Coen, Adam Calhoun, Troy Shirangi, John Hogenesch, Ben Arthur, Mala Murthy   
 Experimental and statistical reevaluation provides no evidence for _Drosophila_ courtship song rhythms   
-[__2017__, PNAS, 114(37):9978-9983](http://www.pnas.org/content/114/37/9978.abstract) | [pdf]({{ site.url }}/pdf/stern_2017_experimental.pdf), [biorxiv](https://www.biorxiv.org/content/early/2017/08/09/140483), [code&data](https://github.com/murthylab/noIPIcycles)
+[__2017__, PNAS, 114(37):9978-9983](http://www.pnas.org/content/114/37/9978.abstract) | [pdf]({{ site.url }}/pdf/stern_2017_experimental.pdf), [preprint](https://www.biorxiv.org/content/early/2017/08/09/140483), [code&data](https://github.com/murthylab/noIPIcycles)
 
 __Jan Clemens__, Jennifer Aufderheide (eq. contribution), Bernhard Ronacher   
 Relative weighting of acoustic information during mating decisions in grasshoppers indicates signatures of sexual selection   
@@ -56,7 +56,7 @@ Relative weighting of acoustic information during mating decisions in grasshoppe
 
 __Jan Clemens__, Mala Murthy   
 The use of computational modeling to link sensory processing with behavior in _Drosophila_   
-__2017__, Celik, A., Wernet, M. (eds.) _Decoding neural circuit structure and function_ [Book chapter](https://link.springer.com/chapter/10.1007/978-3-319-57363-2_9) | [Peerj preprint](https://peerj.com/preprints/2720/), [pdf]({{ site.url }}/pdf/clemens_2017_chapter.pdf)
+__2017__, Celik, A., Wernet, M. (eds.) _Decoding neural circuit structure and function_ [Book chapter](https://link.springer.com/chapter/10.1007/978-3-319-57363-2_9) | [preprint](https://peerj.com/preprints/2720/), [pdf]({{ site.url }}/pdf/clemens_2017_chapter.pdf)
 
 Philip Coen, Marjorie Xie, __Jan Clemens__, Mala Murthy   
 Sensorimotor transformations underlying variability in song intensity during _Drosophila_ courtship   
