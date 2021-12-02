@@ -10,11 +10,11 @@ __2021__, in review, [preprint](https://www.biorxiv.org/content/10.1101/2021.05.
 
 __Jan Clemens__, Stefan Schöneich, Konstantinos Kostarakos, Matthias Hennig, Berthold Hedwig   
 A small, computationally flexible network produces the phenotypic diversity of song recognition in crickets   
-__2021__, eLife, in press, [preprint](https://www.biorxiv.org/content/10.1101/2020.07.27.221655v2) | [pdf]({{ site.url }}/pdf/clemens_2021_small.pdf) | [code](https://github.com/janclemenslab/cricketnet)
+[__2021__, eLife, 10:e61475](https://elifesciences.org/articles/61475) [pdf]({{ site.url }}/pdf/clemens_2021_small.pdf), [preprint](https://www.biorxiv.org/content/10.1101/2020.07.27.221655v2) | [code](https://github.com/janclemenslab/cricketnet)
 
 Elsa Steinfath, Adrian Palacios, Julian Rottschäfer, Deniz Yuezak, __Jan Clemens__   
 Fast and accurate annotation of acoustic signals with deep neural networks   
-__2021__, eLife, in press, [preprint](https://www.biorxiv.org/content/10.1101/2021.03.26.436927)| [pdf]({{ site.url }}/pdf/steinfath_2021_fast.pdf) | [documentation and code](https://janclemenslab.org/das/intro.html)
+[__2021__, eLife, 10:e68837](https://elifesciences.org/articles/68837) | [pdf]({{ site.url }}/pdf/steinfath_2021_fast.pdf), [preprint](https://www.biorxiv.org/content/10.1101/2021.03.26.436927) | [documentation and code](https://janclemenslab.org/das/intro.html) 
 
 
 __Jan Clemens__, Bernhard Ronacher, Michael Reichert   
@@ -23,7 +23,7 @@ Sex-specific speed-accuracy tradeoffs shape neural processing of acoustic signal
 
 Deutsch, D, Pacheco, DA, Encarnacion-Rivera, L, Pereira, T, Fathy, __Clemens, J__, Girardin, C, R, Calhoun, A, Ireland, EC, Burke, AT, Dorkenwald, S, McKellar, C, Macrina, T, Lu, R, Lee, K, Kemnitz, N, Ih, D, Castro, M, Halageri, A, Jordan, C, Silversmith, W, Wu, J, Seung, HS, and Murthy, M.   
 The neural basis for a persistent internal state in _Drosophila_ females.   
-[__2020__, eLife](https://elifesciences.org/articles/59502) | [pdf]({{ site.url }}/pdf/deutsch_2020_neural.pdf)
+[__2020__, eLife, 9:e59502](https://elifesciences.org/articles/59502) | [pdf]({{ site.url }}/pdf/deutsch_2020_neural.pdf)
 
 __Jan Clemens__, Matthias Hennig   
 Coding strategies in insects   
