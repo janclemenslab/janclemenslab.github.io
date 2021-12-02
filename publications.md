@@ -14,7 +14,7 @@ A small, computationally flexible network produces the phenotypic diversity of s
 
 Elsa Steinfath, Adrian Palacios, Julian Rottschäfer, Deniz Yuezak, __Jan Clemens__   
 Fast and accurate annotation of acoustic signals with deep neural networks   
-[__2021__, eLife, 10:e68837](https://elifesciences.org/articles/68837) | [pdf]({{ site.url }}/pdf/steinfath_2021_fast.pdf), [preprint](https://www.biorxiv.org/content/10.1101/2021.03.26.436927), [documentation and code](https://janclemenslab.org/das/intro.html) 
+[__2021__, eLife, 10:e68837](https://elifesciences.org/articles/68837) | [pdf]({{ site.url }}/pdf/steinfath_2021_fast.pdf), [preprint](https://www.biorxiv.org/content/10.1101/2021.03.26.436927), [documentation and code](https://janclemenslab.org/das) 
 
 
 __Jan Clemens__, Bernhard Ronacher, Michael Reichert   
