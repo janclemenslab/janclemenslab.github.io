@@ -9,8 +9,8 @@ Quadratic and adaptive computations yield an efficient representation of song in
 __2021__, in review, [preprint](https://www.biorxiv.org/content/10.1101/2021.05.26.445391v1) | [pdf]({{ site.url }}/pdf/clemens_2021_quadratic.pdf), [code and data](https://github.com/janclemenslab/quadratic-adaptive), [more code](https://github.com/janclemenslab/glm_utils/blob/master/demo/quadratic_filter.ipynb)
 
 Roshan Kumar Vijendravarma, Sunitha Narasimha, __Elsa Steinfath__, __Jan Clemens__, Pierre Leopold   
-Drosophila females have an acoustic preference for symmetric males   
-__2022__, PNAS, in press
+_Drosophila_ females have an acoustic preference for symmetric males   
+[__2022__, PNAS, in press](https://doi.org/10.1073/pnas.2116136119)
  
 __Jan Clemens__, Stefan Schöneich, Konstantinos Kostarakos, Matthias Hennig, Berthold Hedwig   
 A small, computationally flexible network produces the phenotypic diversity of song recognition in crickets   
