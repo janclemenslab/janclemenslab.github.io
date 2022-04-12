@@ -10,8 +10,8 @@ __2021__, in review, [preprint](https://www.biorxiv.org/content/10.1101/2021.05.
 
 Roshan Kumar Vijendravarma, Sunitha Narasimha, __Elsa Steinfath__, __Jan Clemens__, Pierre Leopold   
 _Drosophila_ females have an acoustic preference for symmetric males   
-[__2022__, PNAS, in press](https://doi.org/10.1073/pnas.2116136119)
- 
+[__2022__, PNAS, 119(13):e2116136119](https://doi.org/10.1073/pnas.2116136119) | [pdf]({{ site.url }}/pdf/vijendravarma_2022_drosophila.pdf)
+
 __Jan Clemens__, Stefan Schöneich, Konstantinos Kostarakos, Matthias Hennig, Berthold Hedwig   
 A small, computationally flexible network produces the phenotypic diversity of song recognition in crickets   
 [__2021__, eLife, 10:e61475](https://elifesciences.org/articles/61475) | [pdf]({{ site.url }}/pdf/clemens_2021_small.pdf), [preprint](https://www.biorxiv.org/content/10.1101/2020.07.27.221655v2),  [code](https://github.com/janclemenslab/cricketnet)
