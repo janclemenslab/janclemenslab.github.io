@@ -76,7 +76,7 @@ Firing-rate resonances in the peripheral auditory system of the cricket _Gryllus
 
 __Jan Clemens__, Florian Rau, Matthias Hennig, Jannis Hildebrandt   
 Context-dependent coding and gain control in the auditory system of crickets   
-[__2015__, __European Journal of Neuroscience__, 42(7):2390-2406](http://onlinelibrary.wiley.com/doi/10.1111/ejn.13019/abstract) | [pdf]({{ site.url }}/pdf/clemens_2015_context.pdf)
+[__2015__, European Journal of Neuroscience, 42(7):2390-2406](http://onlinelibrary.wiley.com/doi/10.1111/ejn.13019/abstract) | [pdf]({{ site.url }}/pdf/clemens_2015_context.pdf)
 
 Kelly LaRue, __Jan Clemens__, Gordon Berman, Mala Murthy   
 Acoustic duetting in _Drosophila virilis_ relies on the integration of auditory and tactile signals   
