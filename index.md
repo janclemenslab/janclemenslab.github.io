@@ -19,7 +19,7 @@ Currently, we're focused on the following questions:
 
 Funding:
 
-| ERC Starting grant      | Emmy Noether grant | SPP2205 |
+|     | |  |
 | ----------- | ----------- |----------- |
 | <img src="img/LOGO_ERC.jpg" width="100"/> | <img src="img/logo_emmy_noether_gross.jpg" width="100"/>|<img src="img/LOGO_SPP_2205_RGB.jpg" width="100"/>|
 
