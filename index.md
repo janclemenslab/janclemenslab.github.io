@@ -21,6 +21,7 @@ Funding:
 
 |     | |  |
 | ----------- | ----------- |----------- |
+| The project NeuSoSen (Neural Computations Underlying Social Behavior in Complex Sensory Environments) has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 851210)  |  Neuronale Grundlagen der akustischen Kommunikation in Drosophila wird gefördert von der Deutschen Forschungsgemeinschaft (DFG) unter der Projektnummer 329518246    |     |
 | <img src="img/LOGO_ERC.jpg" width="100"/> | <img src="img/logo_emmy_noether_gross.jpg" width="100"/>|<img src="img/LOGO_SPP_2205_RGB.jpg" width="100"/>|
 
 
