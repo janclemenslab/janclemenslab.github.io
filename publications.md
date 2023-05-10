@@ -4,6 +4,10 @@ layout: default
 
 ## Publications
 
+Ava Kiai, __Jan Clemens__, Manfred Kössl, David Poeppel, Julio C. Hechavarría   
+Flexible control of vocal timing in bats enables escape from acoustic interference   
+__2023__, submitted, [preprint](https://doi.org/10.1101/2023.05.09.539989)
+
 __Jan Clemens__, Mala Murthy   
 Quadratic and adaptive computations yield an efficient representation of song in _Drosophila_ auditory receptor neurons   
 __2021__, in review, [preprint](https://www.biorxiv.org/content/10.1101/2021.05.26.445391v1) | [pdf]({{ site.url }}/pdf/clemens_2021_quadratic.pdf), [code and data](https://github.com/janclemenslab/quadratic-adaptive), [more code](https://github.com/janclemenslab/glm_utils/blob/master/demo/quadratic_filter.ipynb)
