@@ -8,8 +8,6 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 
 | Jan Clemens | group leader | |
 | Sudeshna Das | postdoc | |
-| Elsa Steinfath | graduate student | |
-| Julian Rottschäfer | graduate student | |
 | Adrian Palacios | graduate student | |
 | Sarath Ravindran | graduate student | |
 | Winston Mann | graduate student | |
@@ -20,3 +18,7 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 | Mahalakshmi Ramadas | research assistant | |
 | Gesa Homan | lab tech | |
 | Jan Schöning | lab tech | |
+
+<!-- Alumni
+| Elsa Steinfath | graduate student | |
+| Julian Rottschäfer | graduate student | | -->
