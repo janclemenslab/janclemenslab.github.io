@@ -8,17 +8,20 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 
 | Jan Clemens | group leader | |
 | Sudeshna Das | postdoc | |
+| Madhura Ketkar | postdoc | |
 | Adrian Palacios | graduate student | |
 | Sarath Ravindran | graduate student | |
 | Winston Mann | graduate student | |
 | Dae Sung Cho | graduate student | |
 | Melanie Stenger | graduate student | |
 | Dawn J Tan | graduate student | |
-| Kimia Alizadeh | research asssitant | |
-| Mahalakshmi Ramadas | research assistant | |
-| Gesa Homan | lab tech | |
+| Amir Naderi | graduate student | |
+| Kimia Alizadeh | research assistant | |
+| Mahalakshmi Ramadas | guest student | |
 | Jan Schöning | lab tech | |
 
 <!-- Alumni
+| Deniz Yuezak | graduate student | |
+| Afshin Khalili | postdoc | |
 | Elsa Steinfath | graduate student | |
 | Julian Rottschäfer | graduate student | | -->
