@@ -22,7 +22,8 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 | Jan Schöning | lab tech | |
 
 <!-- Alumni
-| Deniz Yuezak | graduate student | |
-| Afshin Khalili | postdoc | |
-| Elsa Steinfath | graduate student | |
-| Julian Rottschäfer | graduate student | | -->
+| Mahalakshmi Ramadas | now joint graduate student with Daniela Vallentin ||
+| Deniz Yuezak | former graduate student | |
+| Afshin Khalili | now product manager with Miltenyi | |
+| Elsa Steinfath | former graduate student | |
+| Julian Rottschäfer | former graduate student | | -->
