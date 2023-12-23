@@ -6,7 +6,7 @@ layout: default
 
 Ava Kiai, __Jan Clemens__, Manfred Kössl, David Poeppel, Julio C. Hechavarría   
 Flexible control of vocal timing in _Carollia perspicillata_ bats enables escape from acoustic interference   
-[**2023**, Communications Biology](https://www.nature.com/articles/s42003-023-05507-5) | | [pdf]({{ site.url }}/pdf/kiai_2023_flexible.pdf)‌
+[__2023__, Communications Biology](https://www.nature.com/articles/s42003-023-05507-5) | | [pdf]({{ site.url }}/pdf/kiai_2023_flexible.pdf)‌
 
 __Jan Clemens__, Mala Murthy   
 Quadratic and adaptive computations yield an efficient representation of song in _Drosophila_ auditory receptor neurons   
