@@ -7,6 +7,7 @@ layout: default
 We are looking for people with diverse backgrounds (e.g. neuroscience, molecular or evolutionary biology, computer science, physics) to join the lab. Contact Jan if you're interested in working with us.
 
 | Jan Clemens | group leader | |
+| Ulrike Langemann | independent research scientist| |
 | Sudeshna Das | postdoc | |
 | Madhura Ketkar | postdoc | |
 | Adrian Palacios | graduate student | |
@@ -17,7 +18,7 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 | Dawn J Tan | graduate student | |
 | Amir Naderi | graduate student | |
 | Kimia Alizadeh | research assistant | |
-| Mahalakshmi Ramadas | guest student | |
+| Susanne Gross | lab tech | |
 | Jan Schöning | lab tech | |
 
 <!-- Alumni
