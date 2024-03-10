@@ -17,6 +17,7 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 | Melanie Stenger | graduate student | |
 | Dawn J Tan | graduate student | |
 | Amir Naderi | graduate student | |
+| Mahalakshmi Ramadas | guest scientist | |
 | Kimia Alizadeh | research assistant | |
 | Susanne Gross | lab tech | |
 | Jan Schöning | lab tech | |
