@@ -19,6 +19,7 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 | Amir Naderi | graduate student | |
 | Mahalakshmi Ramadas | guest scientist | |
 | Kimia Alizadeh | research assistant | |
+| Bjarne Schultze | master student | |
 | Susanne Gross | lab tech | |
 | Jan Schöning | lab tech | |
 
