@@ -4,9 +4,13 @@ layout: default
 
 ## Publications
 
+Elsa Steinfath, Afshin Khalili (co-first author), Melanie Stenger, Bjarne L. Schultze, Sarath N Ravindran, Kimia Alizadeh,  __Jan Clemens__   
+A neural circuit for context-dependent multimodal signaling in _Drosophila_
+[__2024__, preprint](https://doi.org/10.1101/2024.12.04.625245) | [pdf]({{ site.url }}/pdf/steinfath_2024_neural.pdf)‌
+
 __Winston Mann__, Bettina Erregger, Ralf Matthias Hennig, __Jan Clemens__   
-Taming a behavioral monster: Resonant song recognition and the evolution of acoustic communication in crickets   
-[__2024__, preprint](https://www.biorxiv.org/content/10.1101/2024.07.09.602660v1) | [pdf]({{ site.url }}/pdf/mann_2024_taming.pdf)‌
+Resonant song recognition and the evolution of acoustic communication in crickets   
+[__2024__, in press](https://www.biorxiv.org/content/10.1101/2024.07.09.602660v1) | [pdf]({{ site.url }}/pdf/mann_2024_resonant.pdf)‌
 
 Ava Kiai, __Jan Clemens__, Manfred Kössl, David Poeppel, Julio C. Hechavarría   
 Flexible control of vocal timing in _Carollia perspicillata_ bats enables escape from acoustic interference   
