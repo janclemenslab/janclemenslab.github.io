@@ -4,13 +4,18 @@ layout: default
 
 ## Publications
 
-Elsa Steinfath, Afshin Khalili (co-first author), Melanie Stenger, Bjarne L. Schultze, Sarath N Ravindran, Kimia Alizadeh,  __Jan Clemens__   
+
+Adrienne Chitayat, __Jan  Clemens__, Catherine Crockford, Anne-Sophie  Crunchant, Ammie K Kalan, Alex Piel, Fiona Stewart, Serge Wich   
+Acoustics, balance, and chimpanzees – The ABCs of developing a deep learning-based automated acoustic detector for wild chimpanzee (_Pan troglodytes_) loud calls   
+__2025__, submitted
+
+__Elsa Steinfath__, __Afshin Khalili_ (co-first author), __Melanie Stenger__, __Bjarne L Schultze__, __Sarath N Ravindran__, __Kimia Alizadeh__, __Jan Clemens__   
 A neural circuit for context-dependent multimodal signaling in _Drosophila_   
 [__2024__, preprint](https://doi.org/10.1101/2024.12.04.625245) | [pdf]({{ site.url }}/pdf/steinfath_2024_neural.pdf)‌
 
 __Winston Mann__, Bettina Erregger, Ralf Matthias Hennig, __Jan Clemens__   
 Resonant song recognition and the evolution of acoustic communication in crickets   
-[__2024__, in press](https://www.biorxiv.org/content/10.1101/2024.07.09.602660v1) | [pdf]({{ site.url }}/pdf/mann_2024_resonant.pdf)‌
+[__2025__, iScience](https://www.cell.com/iscience/fulltext/S2589-0042(24)02922-5) | [pdf]({{ site.url }}/pdf/mann_2025_resonant.pdf)‌ | [preprint](https://www.biorxiv.org/content/10.1101/2024.07.09.602660v1) | [code](https://github.com/janclemenslab/anurogryllus-resonance)
 
 Ava Kiai, __Jan Clemens__, Manfred Kössl, David Poeppel, Julio C. Hechavarría   
 Flexible control of vocal timing in _Carollia perspicillata_ bats enables escape from acoustic interference   
@@ -28,7 +33,7 @@ __Jan Clemens__, Stefan Schöneich, Konstantinos Kostarakos, Matthias Hennig, Be
 A small, computationally flexible network produces the phenotypic diversity of song recognition in crickets   
 [__2021__, eLife, 10:e61475](https://elifesciences.org/articles/61475) | [pdf]({{ site.url }}/pdf/clemens_2021_small.pdf), [preprint](https://www.biorxiv.org/content/10.1101/2020.07.27.221655v2),  [code](https://github.com/janclemenslab/cricketnet)
 
-Elsa Steinfath, Adrian Palacios, Julian Rottschäfer, Deniz Yuezak, __Jan Clemens__   
+__Elsa Steinfath__, __Adrian Palacios__, __Julian Rottschäfer__, __Deniz Yuezak__, __Jan Clemens__   
 Fast and accurate annotation of acoustic signals with deep neural networks   
 [__2021__, eLife, 10:e68837](https://elifesciences.org/articles/68837) | [pdf]({{ site.url }}/pdf/steinfath_2021_fast.pdf), [preprint](https://www.biorxiv.org/content/10.1101/2021.03.26.436927), [documentation and code](https://janclemenslab.org/das) 
 
