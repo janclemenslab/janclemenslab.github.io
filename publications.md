@@ -9,13 +9,13 @@ Adrienne Chitayat, __Jan  Clemens__, Catherine Crockford, Anne-Sophie  Crunchant
 Acoustics, balance, and chimpanzees – The ABCs of developing a deep learning-based automated acoustic detector for wild chimpanzee (_Pan troglodytes_) loud calls   
 __2025__, submitted
 
-__Elsa Steinfath__, __Afshin Khalili_ (co-first author), __Melanie Stenger__, __Bjarne L Schultze__, __Sarath N Ravindran__, __Kimia Alizadeh__, __Jan Clemens__   
-A neural circuit for context-dependent multimodal signaling in _Drosophila_   
-[__2024__, preprint](https://doi.org/10.1101/2024.12.04.625245) | [pdf]({{ site.url }}/pdf/steinfath_2024_neural.pdf)‌
-
 __Winston Mann__, Bettina Erregger, Ralf Matthias Hennig, __Jan Clemens__   
 Resonant song recognition and the evolution of acoustic communication in crickets   
 [__2025__, iScience](https://www.cell.com/iscience/fulltext/S2589-0042(24)02922-5) | [pdf]({{ site.url }}/pdf/mann_2025_resonant.pdf)‌ | [preprint](https://www.biorxiv.org/content/10.1101/2024.07.09.602660v1) | [code](https://github.com/janclemenslab/anurogryllus-resonance)
+
+__Elsa Steinfath__, __Afshin Khalili__ (co-first author), __Melanie Stenger__, __Bjarne L Schultze__, __Sarath N Ravindran__, __Kimia Alizadeh__, __Jan Clemens__   
+A neural circuit for context-dependent multimodal signaling in _Drosophila_   
+[__2024__, preprint](https://doi.org/10.1101/2024.12.04.625245) | [pdf]({{ site.url }}/pdf/steinfath_2024_neural.pdf)‌
 
 Ava Kiai, __Jan Clemens__, Manfred Kössl, David Poeppel, Julio C. Hechavarría   
 Flexible control of vocal timing in _Carollia perspicillata_ bats enables escape from acoustic interference   
