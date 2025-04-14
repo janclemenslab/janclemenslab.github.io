@@ -4,10 +4,12 @@ layout: default
 
 ## Publications
 
+Giacomo Costalunga, Carolina C Sanchez, Jonathan I Benichov, Colin Cross, __Jan Clemens__, Daniela Vallentin   
+Attuning to song duels facilitates song-matching in nightingales   __2025__, [preprint](https://www.biorxiv.org/content/10.1101/2025.04.12.648496v1)
 
 Adrienne Chitayat, __Jan  Clemens__, Catherine Crockford, Anne-Sophie  Crunchant, Ammie K Kalan, Alex Piel, Fiona Stewart, Serge Wich   
 Acoustics, balance, and chimpanzees – The ABCs of developing a deep learning-based automated acoustic detector for wild chimpanzee (_Pan troglodytes_) loud calls   
-__2025__, submitted
+__2025__, under review | [preprint](https://doi.org/10.22541/au.173814850.06519206/v1)
 
 __Winston Mann__, Bettina Erregger, Ralf Matthias Hennig, __Jan Clemens__   
 Resonant song recognition and the evolution of acoustic communication in crickets   
@@ -15,7 +17,7 @@ Resonant song recognition and the evolution of acoustic communication in cricket
 
 __Elsa Steinfath__, __Afshin Khalili__ (co-first author), __Melanie Stenger__, __Bjarne L Schultze__, __Sarath N Ravindran__, __Kimia Alizadeh__, __Jan Clemens__   
 A neural circuit for context-dependent multimodal signaling in _Drosophila_   
-[__2024__, preprint](https://doi.org/10.1101/2024.12.04.625245) | [pdf]({{ site.url }}/pdf/steinfath_2024_neural.pdf)‌
+__2024__, under review | [preprint](https://doi.org/10.1101/2024.12.04.625245) | [pdf]({{ site.url }}/pdf/steinfath_2024_neural.pdf)‌
 
 Ava Kiai, __Jan Clemens__, Manfred Kössl, David Poeppel, Julio C. Hechavarría   
 Flexible control of vocal timing in _Carollia perspicillata_ bats enables escape from acoustic interference   
