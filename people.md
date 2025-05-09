@@ -10,8 +10,8 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 | Ulrike Langemann | independent research scientist| |
 | Sudeshna Das | postdoc | |
 | Madhura Ketkar | postdoc | |
-| Adrian Palacios | graduate student | |
-| Sarath Ravindran | graduate student | |
+| Adrian Palacios | postdoc | |
+| Sarath Ravindran | postdoc | |
 | Dae Sung Cho | graduate student | |
 | Melanie Stenger | graduate student | |
 | Dawn J Tan | graduate student | |
