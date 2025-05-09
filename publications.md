@@ -6,10 +6,11 @@ layout: default
 
 __Sarath R Nair__, __Adrián Palacios M__, Sage Martineau, Malak Nasr, __Jan Clemens__   
 Sex-specific behavioral feedback modulates sensorimotor processing and drives flexible social behavior   
-__2025__, [preprint](https://www.biorxiv.org/content/10.1101/2025.05.08.652884v2)
+__2025__, submitted | [preprint](https://www.biorxiv.org/content/10.1101/2025.05.08.652884v2)
 
 Giacomo Costalunga, Carolina C Sanchez, Jonathan I Benichov, Colin Cross, __Jan Clemens__, Daniela Vallentin   
-Attuning to song duels facilitates song-matching in nightingales   __2025__, [preprint](https://www.biorxiv.org/content/10.1101/2025.04.12.648496v1)
+Attuning to song duels facilitates song-matching in nightingales   
+__2025__, under review | [preprint](https://www.biorxiv.org/content/10.1101/2025.04.12.648496v1)
 
 Adrienne Chitayat, __Jan  Clemens__, Catherine Crockford, Anne-Sophie  Crunchant, Ammie K Kalan, Alex Piel, Fiona Stewart, Serge Wich   
 Acoustics, balance, and chimpanzees – The ABCs of developing a deep learning-based automated acoustic detector for wild chimpanzee (_Pan troglodytes_) loud calls   
