@@ -12,18 +12,19 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 | Madhura Ketkar | postdoc | |
 | Adrian Palacios | graduate student | |
 | Sarath Ravindran | graduate student | |
-| Winston Mann | graduate student | |
 | Dae Sung Cho | graduate student | |
 | Melanie Stenger | graduate student | |
 | Dawn J Tan | graduate student | |
 | Amir Naderi | graduate student | |
 | Bjarne Schultze | graduate student | |
 | Mahalakshmi Ramadas | guest scientist | |
-| Kimia Alizadeh | research assistant | |
 | Susanne Gross | lab tech | |
 | Jan Schöning | lab tech | |
 
 <!-- Alumni
+
+| Kimia Alizadeh | now research scientist in Freiburg ||
+| Winston Mann | former graduate student ||
 | Mahalakshmi Ramadas | now joint graduate student with Daniela Vallentin ||
 | Deniz Yuezak | former graduate student | |
 | Afshin Khalili | now product manager with Miltenyi | |

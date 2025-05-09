@@ -4,6 +4,10 @@ layout: default
 
 ## Publications
 
+__Sarath R Nair__, __Adrián Palacios M__, Sage Martineau, Malak Nasr, __Jan Clemens__   
+Sex-specific behavioral feedback modulates sensorimotor processing and drives flexible social behavior   
+__2025__, [preprint](https://www.biorxiv.org/content/10.1101/2025.05.08.652884v2)
+
 Giacomo Costalunga, Carolina C Sanchez, Jonathan I Benichov, Colin Cross, __Jan Clemens__, Daniela Vallentin   
 Attuning to song duels facilitates song-matching in nightingales   __2025__, [preprint](https://www.biorxiv.org/content/10.1101/2025.04.12.648496v1)
 
@@ -11,7 +15,7 @@ Adrienne Chitayat, __Jan  Clemens__, Catherine Crockford, Anne-Sophie  Crunchant
 Acoustics, balance, and chimpanzees – The ABCs of developing a deep learning-based automated acoustic detector for wild chimpanzee (_Pan troglodytes_) loud calls   
 __2025__, under review | [preprint](https://doi.org/10.22541/au.173814850.06519206/v1)
 
-__Winston Mann__, Bettina Erregger, Ralf Matthias Hennig, __Jan Clemens__   
+__Winston Mann__, Bettina Erregger, Matthias Hennig, __Jan Clemens__   
 Resonant song recognition and the evolution of acoustic communication in crickets   
 [__2025__, iScience](https://www.cell.com/iscience/fulltext/S2589-0042(24)02922-5) | [pdf]({{ site.url }}/pdf/mann_2025_resonant.pdf)‌ | [preprint](https://www.biorxiv.org/content/10.1101/2024.07.09.602660v1) | [code](https://github.com/janclemenslab/anurogryllus-resonance)
 
