@@ -4,9 +4,14 @@ layout: default
 
 ## Publications
 
+__Adrián Palacios M__, __Jan Clemens__   
+_Drosophila_ males integrate song and pheromones using
+context-specific strategies during social behavior    
+__2025__, submitted | [pdf](palacios_2025_drosophila)
+
 __Sarath R Nair__, __Adrián Palacios M__, Sage Martineau, Malak Nasr, __Jan Clemens__   
 Sex-specific behavioral feedback modulates sensorimotor processing and drives flexible social behavior   
-__2025__, submitted | [preprint](https://www.biorxiv.org/content/10.1101/2025.05.08.652884v2)
+__2025__, submitted | [preprint](https://www.biorxiv.org/content/10.1101/2025.05.08.652884v3)
 
 Giacomo Costalunga, Carolina C Sanchez, Jonathan I Benichov, Colin Cross, __Jan Clemens__, Daniela Vallentin   
 Attuning to song duels facilitates song-matching in nightingales   

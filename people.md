@@ -25,7 +25,6 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 
 | Kimia Alizadeh | now research scientist in Freiburg ||
 | Winston Mann | former graduate student ||
-| Mahalakshmi Ramadas | now joint graduate student with Daniela Vallentin ||
 | Deniz Yuezak | former graduate student | |
 | Afshin Khalili | now product manager with Miltenyi | |
 | Elsa Steinfath | former graduate student | |
