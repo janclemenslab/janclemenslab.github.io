@@ -5,7 +5,7 @@ layout: default
 ## Publications
 
 Control of walking direction by descending and dopaminergic neurons in _Drosophila_   
-Stefan Dahlhoff, Sander Liessem, Fathima Mukthar Iqbal, __Adrián Palacios-Muñoz__, Federico Cascino-Milani, Mert Erginkaya, Aleyna M. Diniz, E. Axel Gorostiza, Ansgar Büschges, __Jan Clemens__, and Jan M. Ache   
+Stefan Dahlhoff, Sander Liessem, Fathima Mukthar Iqbal, __Adrián Palacios-Muñoz__, Federico Cascino-Milani, Mert Erginkaya, Aleyna M Diniz, E Axel Gorostiza, Ansgar Büschges, __Jan Clemens__, and Jan M Ache   
 __2025__, submitted | [preprint](https://www.biorxiv.org/content/10.1101/2025.07.22.666129v1)
 
 Luiza F Passos, Anja Hutschenreiter, Margarita B Jaramillo, Emanuele Cissello, __Jan Clemens__, Filippo Aureli, Serge Wich   
