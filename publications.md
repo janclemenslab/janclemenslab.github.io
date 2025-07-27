@@ -5,14 +5,14 @@ layout: default
 ## Publications
 
 Control of walking direction by descending and dopaminergic neurons in _Drosophila_   
-Stefan Dahlhoff, Sander Liessem, Fathima Mukthar Iqbal, Adrián Palacios-Muñoz, Federico Cascino-Milani, Mert Erginkaya, Aleyna M. Diniz, E. Axel Gorostiza, Ansgar Büschges, Jan Clemens, and Jan M. Ache   
+Stefan Dahlhoff, Sander Liessem, Fathima Mukthar Iqbal, __Adrián Palacios-Muñoz__, Federico Cascino-Milani, Mert Erginkaya, Aleyna M. Diniz, E. Axel Gorostiza, Ansgar Büschges, __Jan Clemens__, and Jan M. Ache   
 __2025__, submitted | [preprint](https://www.biorxiv.org/content/10.1101/2025.07.22.666129v1)
 
 Luiza F Passos, Anja Hutschenreiter, Margarita B Jaramillo, Emanuele Cissello, __Jan Clemens__, Filippo Aureli, Serge Wich   
 Breaking through the noise in passive acoustic monitoring: Evaluating commercial and open-source tools for automated detection of highly variable primate vocalizations   
 __2025__, submitted
 
-__Adrián Palacios M__, __Jan Clemens__   
+__Adrián Palacios-Muñoz__, __Jan Clemens__   
 _Drosophila_ males integrate song and pheromones using
 context-specific strategies   
 __2025__, under review | [pdf]({{ site.url }}/pdf/palacios_2025_drosophila.pdf)
