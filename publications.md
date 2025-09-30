@@ -6,7 +6,7 @@ layout: default
 
 Stefan Dahlhoff, Sander Liessem, Fathima Mukthar Iqbal, __Adrián Palacios-Muñoz__, Federico Cascino-Milani, Mert Erginkaya, Aleyna M Diniz, E Axel Gorostiza, Ansgar Büschges, __Jan Clemens__, and Jan M Ache   
 Control of walking direction by descending and dopaminergic neurons in _Drosophila_   
-__2025__, submitted | [preprint](https://www.biorxiv.org/content/10.1101/2025.07.22.666129v1)
+__2025__, in revision | [preprint](https://www.biorxiv.org/content/10.1101/2025.07.22.666129v1)
 
 Luiza F Passos, Anja Hutschenreiter, Margarita B Jaramillo, Emanuele Cissello, __Jan Clemens__, Filippo Aureli, Serge Wich   
 Breaking through the noise in passive acoustic monitoring: Evaluating commercial and open-source tools for automated detection of highly variable primate vocalizations   
@@ -15,15 +15,15 @@ __2025__, submitted
 __Adrián Palacios-Muñoz__, __Jan Clemens__   
 _Drosophila_ males integrate song and pheromones using
 context-specific strategies   
-__2025__, under review | [pdf]({{ site.url }}/pdf/palacios_2025_drosophila.pdf)
+__2025__, in revision | [pdf]({{ site.url }}/pdf/palacios_2025_drosophila.pdf)
 
 __Sarath R Nair__, __Adrián Palacios-Muñoz__, Sage Martineau, Malak Nasr, __Jan Clemens__   
 Sex-specific behavioral feedback modulates sensorimotor processing and drives flexible social behavior   
-__2025__, submitted | [preprint](https://www.biorxiv.org/content/10.1101/2025.05.08.652884v3)
+__2025__, in revision | [preprint](https://www.biorxiv.org/content/10.1101/2025.05.08.652884v3)
 
 Giacomo Costalunga, Carolina C Sanchez, Jonathan I Benichov, Colin Cross, __Jan Clemens__, Daniela Vallentin   
 Attuning to song duels facilitates song-matching in nightingales   
-__2025__, under review | [preprint](https://www.biorxiv.org/content/10.1101/2025.04.12.648496v1)
+__2025__, submitted | [preprint](https://www.biorxiv.org/content/10.1101/2025.04.12.648496v1)
 
 Adrienne Chitayat, __Jan  Clemens__, Catherine Crockford, Anne-Sophie  Crunchant, Ammie K Kalan, Alex Piel, Fiona Stewart, Serge Wich   
 Acoustics, balance, and chimpanzees – The ABCs of developing a deep learning-based automated acoustic detector for wild chimpanzee (_Pan troglodytes_) loud calls   
@@ -35,7 +35,7 @@ Resonant song recognition and the evolution of acoustic communication in cricket
 
 __Elsa Steinfath__, __Afshin Khalili__ (co-first author), __Melanie Stenger__, __Bjarne L Schultze__, __Sarath N Ravindran__, __Kimia Alizadeh__, __Jan Clemens__   
 A neural circuit for context-dependent multimodal signaling in _Drosophila_   
-__2024__, under review | [preprint](https://doi.org/10.1101/2024.12.04.625245) | [pdf]({{ site.url }}/pdf/steinfath_2024_neural.pdf)‌
+__2024__, Nature Communications (in press) | [preprint](https://doi.org/10.1101/2024.12.04.625245) | [pdf]({{ site.url }}/pdf/steinfath_2024_neural.pdf)‌
 
 Ava Kiai, __Jan Clemens__, Manfred Kössl, David Poeppel, Julio C. Hechavarría   
 Flexible control of vocal timing in _Carollia perspicillata_ bats enables escape from acoustic interference   
