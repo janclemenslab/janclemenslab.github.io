@@ -8,7 +8,6 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 
 | Jan Clemens | group leader | |
 | Ulrike Langemann | independent research scientist| |
-| Sudeshna Das | postdoc | |
 | Madhura Ketkar | postdoc | |
 | Adrian Palacios | postdoc | |
 | Sarath Ravindran | postdoc | |
