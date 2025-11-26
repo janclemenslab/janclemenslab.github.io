@@ -35,7 +35,7 @@ Resonant song recognition and the evolution of acoustic communication in cricket
 
 __Elsa Steinfath__, __Afshin Khalili__ (co-first author), __Melanie Stenger__, __Bjarne L Schultze__, __Sarath N Ravindran__, __Kimia Alizadeh__, __Jan Clemens__   
 A neural circuit for context-dependent multimodal signaling in _Drosophila_   
-__2024__, Nature Communications (in press) | [preprint](https://doi.org/10.1101/2024.12.04.625245) | [pdf]({{ site.url }}/pdf/steinfath_2024_neural.pdf)‌
+[__2025__, Nature Communications](https://www.nature.com/articles/s41467-025-64907-9) | [pdf]({{ site.url}}/pdf/Steinfath_2025_neural.pdf) | [preprint](https://doi.org/10.1101/2024.12.04.625245) | [code](https://github.com/janclemenslab/vibmodel)‌
 
 Ava Kiai, __Jan Clemens__, Manfred Kössl, David Poeppel, Julio C. Hechavarría   
 Flexible control of vocal timing in _Carollia perspicillata_ bats enables escape from acoustic interference   
