@@ -13,6 +13,14 @@ This repository builds the public website for `janclemenslab.org`.
 
 ## Build And Verify
 
+Use the Homebrew Ruby 3.3 toolchain when running commands locally:
+
+```sh
+export PATH="/opt/homebrew/opt/ruby@3.3/bin:$PATH"
+```
+
+Without that path prefix, macOS may resolve `/usr/bin/ruby` 2.6 and fail to find the Bundler version from `Gemfile.lock`.
+
 Install dependencies:
 
 ```sh
@@ -24,6 +32,8 @@ Run a local preview:
 ```sh
 bundle exec jekyll serve --host 127.0.0.1 --port 4000
 ```
+
+The local preview is expected at `http://127.0.0.1:4000`.
 
 Production build check:
 

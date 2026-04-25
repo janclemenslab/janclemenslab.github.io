@@ -123,6 +123,19 @@
         pdf
       url: "/pdf/kiai_2023_flexible.pdf"
 
+- year: 2022
+  authors: >-
+    Roshan Kumar Vijendravarma, Sunitha Narasimha, __Elsa Steinfath__, __Jan Clemens__, Pierre Leopold
+  title: >-
+    _Drosophila_ females have an acoustic preference for symmetric males
+  citation: >-
+    __2022__, PNAS, 119(13):e2116136119
+  citation_url: "https://doi.org/10.1073/pnas.2116136119"
+  links:
+    - label: >-
+        pdf
+      url: "/pdf/vijendravarma_2022_drosophila.pdf"
+
 - year: 2021
   authors: >-
     __Jan Clemens__, Mala Murthy
@@ -143,19 +156,6 @@
     - label: >-
         more code
       url: "https://github.com/janclemenslab/glm_utils/blob/master/demo/quadratic_filter.ipynb"
-
-- year: 2022
-  authors: >-
-    Roshan Kumar Vijendravarma, Sunitha Narasimha, __Elsa Steinfath__, __Jan Clemens__, Pierre Leopold
-  title: >-
-    _Drosophila_ females have an acoustic preference for symmetric males
-  citation: >-
-    __2022__, PNAS, 119(13):e2116136119
-  citation_url: "https://doi.org/10.1073/pnas.2116136119"
-  links:
-    - label: >-
-        pdf
-      url: "/pdf/vijendravarma_2022_drosophila.pdf"
 
 - year: 2021
   authors: >-
