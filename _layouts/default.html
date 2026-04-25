@@ -13,7 +13,9 @@
     {% if page.url == "/404.html" %}
         <meta http-equiv="refresh" content="5; url=/">
     {% endif %}
-    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;650;750&family=Source+Serif+4:opsz,wght@8..60,500;8..60,650&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
     {% if site.favicon %}
         <link rel="icon" type="image/ico" href="{{ site.favicon_location }}">
@@ -29,34 +31,37 @@
         <meta property="og:image" content="{{ site.og_image | absolute_url }}">
     {% endif %}
 </head>
-<body>
+<body class="{{ page.body_class | default: 'page-standard' }}">
     <div class="wrapper">
-        <div class="navbar container">
-            <a id="author-name" class="alignable pull-left" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-            <ul class="alignable pull-right navbar-ul">
-                {% for x in site.data.nav %}
-                    {% if x.name == "Resume" %}
-                        <li class="alignable pull-right nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
-                    {% else %}
-                        <li class="alignable pull-right nav-list"><a href="{{ x.link | relative_url }}">{{ x.name }}</a>
-                    {% endif %}
-                    {% if forloop.first == false %}
-                        /
-                    {% endif %}
-                        </li>
-                {% endfor %}
-            </ul>
-        </div>
-        <div style="clear:both"></div>
-        <hr>
-        {% if page.is_contact == true %}
-            <div class="container content contact">
-                {{ content }}
+        <header class="site-header">
+            <div class="container site-header__inner">
+                <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+                <nav class="site-nav" aria-label="Main navigation">
+                    {% for x in site.data.nav %}
+                        {% if x.name == "Resume" %}
+                            <a class="nav-link" target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+                        {% else %}
+                            <a class="nav-link" href="{{ x.link | relative_url }}">{{ x.name }}</a>
+                        {% endif %}
+                    {% endfor %}
+                </nav>
             </div>
-        {% else %}
-            <div class="container content">
+        </header>
+
+        <main class="site-main">
+            {% if page.body_class == "home-page" %}
                 {{ content }}
-            </div>
-        {% endif %}
+            {% else %}
+                <section class="page-hero">
+                    <div class="container">
+                        <h1>{{ page_title | escape }}</h1>
+                    </div>
+                </section>
+                <div class="container content{% if page.is_contact == true %} contact{% endif %}">
+                    {{ content }}
+                </div>
+            {% endif %}
+        </main>
     </div>
 </body>
+</html>

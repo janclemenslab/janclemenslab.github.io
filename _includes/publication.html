@@ -1,0 +1,79 @@
+{% assign publication = include.publication %}
+<article class="publication">
+    <p class="publication-authors">{{ publication.authors | markdownify | remove: "<p>" | remove: "</p>" | strip }}</p>
+    <h3 class="publication-title">{{ publication.title | markdownify | remove: "<p>" | remove: "</p>" | strip }}</h3>
+    <div class="publication-details">
+        <div class="publication-meta">
+            {% if publication.citation_url %}
+                <a href="{{ publication.citation_url | escape }}">{{ publication.citation | markdownify | remove: "<p>" | remove: "</p>" | strip }}</a>
+            {% else %}
+                <span>{{ publication.citation | markdownify | remove: "<p>" | remove: "</p>" | strip }}</span>
+            {% endif %}
+        </div>
+        {% if publication.links %}
+            <ul class="publication-links" aria-label="Publication links">
+                {% for link in publication.links %}
+                    {% assign href = link.url %}
+                    {% assign label = link.label | strip %}
+                    {% assign label_key = label | downcase %}
+                    {% assign icon = "external" %}
+                    {% assign resource_label = label %}
+
+                    {% if label_key contains "pdf" %}
+                        {% assign icon = "pdf" %}
+                        {% assign resource_label = "PDF" %}
+                    {% elsif label_key contains "preprint" %}
+                        {% assign icon = "preprint" %}
+                        {% if href contains "biorxiv.org" or href contains "10.1101" %}
+                            {% assign resource_label = "bioRxiv preprint" %}
+                        {% elsif href contains "peerj.com/preprints" %}
+                            {% assign resource_label = "PeerJ preprint" %}
+                        {% else %}
+                            {% assign resource_label = "Preprint" %}
+                        {% endif %}
+                    {% elsif label_key contains "code" or label_key contains "documentation" %}
+                        {% assign icon = "code" %}
+                        {% assign resource_label = label | capitalize %}
+                    {% endif %}
+
+                    {% assign first_char = href | slice: 0 %}
+                    {% if first_char == "/" %}
+                        {% assign href = href | relative_url %}
+                    {% endif %}
+                    <li>
+                        <a class="publication-resource publication-resource--{{ icon }}" href="{{ href | escape }}" aria-label="{{ resource_label | escape }}" title="{{ resource_label | escape }}">
+                            {% case icon %}
+                            {% when "pdf" %}
+                                <svg viewBox="0 0 24 24" aria-hidden="true">
+                                    <path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"></path>
+                                    <path d="M14 3v5h5"></path>
+                                    <path d="M8 13h8"></path>
+                                    <path d="M8 17h5"></path>
+                                </svg>
+                            {% when "preprint" %}
+                                <svg viewBox="0 0 24 24" aria-hidden="true">
+                                    <path d="M5 5h14v14H5z"></path>
+                                    <path d="M8 9h8"></path>
+                                    <path d="M8 13h8"></path>
+                                    <path d="M8 17h5"></path>
+                                </svg>
+                            {% when "code" %}
+                                <svg viewBox="0 0 24 24" aria-hidden="true">
+                                    <path fill="currentColor" d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.56v-2c-3.2.7-3.88-1.54-3.88-1.54-.52-1.33-1.28-1.68-1.28-1.68-1.05-.72.08-.7.08-.7 1.16.08 1.77 1.19 1.77 1.19 1.03 1.76 2.7 1.25 3.36.96.1-.75.4-1.25.73-1.54-2.56-.29-5.26-1.28-5.26-5.7 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.47.11-3.06 0 0 .97-.31 3.18 1.18.92-.26 1.91-.38 2.89-.39.98 0 1.97.13 2.89.39 2.21-1.49 3.18-1.18 3.18-1.18.63 1.59.23 2.77.11 3.06.74.81 1.19 1.84 1.19 3.1 0 4.43-2.7 5.41-5.27 5.69.41.35.78 1.05.78 2.12v3.14c0 .31.21.68.8.56A10.99 10.99 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5z"></path>
+                                </svg>
+                            {% else %}
+                                <svg viewBox="0 0 24 24" aria-hidden="true">
+                                    <path d="M7 17 17 7"></path>
+                                    <path d="M9 7h8v8"></path>
+                                    <path d="M5 5h6"></path>
+                                    <path d="M5 5v14h14v-6"></path>
+                                </svg>
+                            {% endcase %}
+                            <span class="visually-hidden">{{ resource_label | escape }}</span>
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    </div>
+</article>
