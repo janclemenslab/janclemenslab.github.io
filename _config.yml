@@ -1,10 +1,12 @@
 title: Neural Computation and Behavior
+description: Neural computation and behavior lab studying acoustic communication in insects with computational tools.
+author: Jan Clemens
+lang: en
+timezone: Europe/Berlin
 url: "https://janclemenslab.org"
-baseurl: "/"
+baseurl: ""
 
 markdown: kramdown
-
-tracking_id: UA-111858293-1
 
 sass:
     style: compressed

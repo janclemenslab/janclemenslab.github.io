@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Research
 ---
 
 Our brain is constantly confronted with sensory information, yet it manages to filter out relevant bits to produce appropriate behavior. Our lab is interested in the _neural computations_ that allow brains to process sensory information and drive _behavior_.
