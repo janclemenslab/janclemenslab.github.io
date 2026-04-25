@@ -39,11 +39,14 @@
   title: >-
     Sex-specific behavioral feedback modulates sensorimotor processing and drives flexible social behavior
   citation: >-
-    __2025__, in revision
+    __2025__, accepted at Nature Communications
   links:
     - label: >-
         preprint
       url: "https://www.biorxiv.org/content/10.1101/2025.05.08.652884v3"
+    - label: >-
+        code
+      url: "https://github.com/janclemenslab/socialUMAP"
 
 - year: 2025
   authors: >-
