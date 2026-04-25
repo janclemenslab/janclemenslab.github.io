@@ -17,19 +17,11 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;650;750&family=Source+Serif+4:opsz,wght@8..60,500;8..60,650&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
-    {% if site.favicon %}
-        <link rel="icon" type="image/ico" href="{{ site.favicon_location }}">
-        <link rel="shortcut-icon" type="image/ico" href="{{ site.favicon_location }}">
-    {% endif %}
-
     <meta property="og:description" content="{{ desc | escape }}">
     <meta property="og:title" content="{{ page_title | escape }}">
     <meta property="og:site_name" content="{{ site.title | escape }}">
     <meta property="og:url" content="{{ canonical_url }}">
     <meta property="og:type" content="website">
-    {% if site.og_image %}
-        <meta property="og:image" content="{{ site.og_image | absolute_url }}">
-    {% endif %}
 </head>
 <body class="{{ page.body_class | default: 'page-standard' }}">
     <div class="wrapper">
@@ -38,11 +30,7 @@
                 <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
                 <nav class="site-nav" aria-label="Main navigation">
                     {% for x in site.data.nav %}
-                        {% if x.name == "Resume" %}
-                            <a class="nav-link" target="_blank" href="{{ x.link }}">{{ x.name }}</a>
-                        {% else %}
-                            <a class="nav-link" href="{{ x.link | relative_url }}">{{ x.name }}</a>
-                        {% endif %}
+                        <a class="nav-link" href="{{ x.link | relative_url }}">{{ x.name }}</a>
                     {% endfor %}
                 </nav>
             </div>
