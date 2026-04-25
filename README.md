@@ -2,8 +2,6 @@
 
 Website for [janclemenslab.org](https://janclemenslab.org).
 
-The theme was originally based on [researcher](https://github.com/bk2dcradle/researcher).
-
 ## Development
 
 Use Ruby 3.3.
