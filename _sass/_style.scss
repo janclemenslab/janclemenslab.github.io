@@ -373,6 +373,7 @@ img {
 }
 
 .research-topic {
+    scroll-margin-top: 96px;
     display: grid;
     grid-template-columns: minmax(190px, 0.35fr) minmax(0, 1fr);
     grid-template-areas:

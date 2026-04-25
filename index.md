@@ -7,7 +7,7 @@ body_class: home-page
 <section class="home-hero">
     <div class="container home-hero__inner">
         <h1>Sound, brains, behavior</h1>
-        <p class="hero-lede">We study the neural computations that let animals process acoustic signals, interpret communication, and choose behavior.</p>
+        <p class="hero-lede">We study the neural computations that let animals process acoustic signals, decode communication, and choose behavior.</p>
     </div>
 </section>
 
@@ -17,7 +17,7 @@ body_class: home-page
             <p class="section-kicker">Research focus</p>
             <h2>Small nervous systems, rich social signals, computational tools.</h2>
         </div>
-        <p>Our brain is constantly confronted with sensory information, yet it manages to filter out relevant bits to produce appropriate behavior. We approach this problem by studying acoustic communication in insects using computational tools.</p>
+        <p>Our brain is constantly confronted with sensory information, yet it manages to filter out relevant bits to produce appropriate behavior. We approach this problem by studying acoustic communication, often in insects, using computational tools.</p>
     </div>
 </section>
 
@@ -27,7 +27,7 @@ body_class: home-page
             <article class="research-card">
                 <p class="card-index">01</p>
                 <h3>Acoustic communication</h3>
-                <p>During courtship, senders produce temporally structured songs. Receivers parse those signals to infer identity, quality, and context.</p>
+                <p>Senders produce temporally structured songs. Receivers parse those signals to infer identity, quality, and context.</p>
             </article>
             <article class="research-card">
                 <p class="card-index">02</p>
@@ -50,12 +50,12 @@ body_class: home-page
             <h2>From sensory filtering to group dynamics.</h2>
         </div>
         <ul class="question-list">
-            <li>How are acoustic signals efficiently filtered and encoded in the sensory periphery?</li>
-            <li>How does genetic variability affect song processing and behavior?</li>
-            <li>How do neural networks that recognize song evolve?</li>
-            <li>How is sensory information combined over time to inform behavior?</li>
-            <li>How is information routed to motor circuits for state-dependent or sex-specific responses?</li>
-            <li>How do acoustic signals shape group dynamics?</li>
+            <li><a href="{{ '/research#animal-sound-analysis' | relative_url }}">How can machine learning turn animal sounds into measurable behavioral data?</a></li>
+            <li><a href="{{ '/research#neural-basis-of-communication' | relative_url }}">How do animals recognize and interpret communication signals to inform behavior?</a></li>
+            <li><a href="{{ '/research#connectome-constrained-modeling' | relative_url }}">How are sensory processing, action selection, and motor pattern generation implemented in neural circuits of the brain?</a></li>
+            <li><a href="{{ '/research#evolution-of-acoustic-communication' | relative_url }}">How do the neural circuits for song production and recognition evolve across species?</a></li>
+            <li><a href="{{ '/research#group-behavior' | relative_url }}">How does social behavior change in groups and how is the group context represented in the brain?</a></li>
+            <li><a href="{{ '/research#animal-navigation' | relative_url }}">How do animals navigate?</a></li>
         </ul>
     </div>
 </section>

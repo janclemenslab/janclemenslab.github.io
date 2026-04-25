@@ -12,6 +12,9 @@
     - label: >-
         preprint
       url: "https://www.biorxiv.org/content/10.1101/2025.07.22.666129v1"
+    - label: >-
+        code
+      url: "https://github.com/janclemenslab/glm_utils"
 
 - year: 2025
   authors: >-
@@ -20,6 +23,10 @@
     Breaking through the noise in passive acoustic monitoring: Evaluating commercial and open-source tools for automated detection of highly variable primate vocalizations
   citation: >-
     __2025__, submitted
+  links:
+    - label: >-
+        code
+      url: "https://github.com/janclemenslab/das"
 
 - year: 2025
   authors: >-
@@ -32,7 +39,10 @@
     - label: >-
         pdf
       url: "/pdf/palacios_2025_drosophila.pdf"
-
+    - label: >-
+        code
+      url: "https://github.com/janclemenslab/song-taste-integration
+"
 - year: 2025
   authors: >-
     __Sarath R Nair__, __Adrián Palacios-Muñoz__, Sage Martineau, Malak Nasr, __Jan Clemens__
@@ -59,6 +69,9 @@
     - label: >-
         preprint
       url: "https://www.biorxiv.org/content/10.1101/2025.04.12.648496v1"
+    - label: >-
+        code
+      url: "https://github.com/janclemenslab/das"
 
 - year: 2025
   authors: >-
@@ -71,6 +84,9 @@
     - label: >-
         preprint
       url: "https://doi.org/10.22541/au.173814850.06519206/v1"
+    - label: >-
+        code
+      url: "https://github.com/janclemenslab/das"
 
 - year: 2025
   authors: >-
@@ -122,6 +138,9 @@
     - label: >-
         pdf
       url: "/pdf/kiai_2023_flexible.pdf"
+    - label: >-
+        code
+      url: "https://github.com/janclemenslab/das"
 
 - year: 2022
   authors: >-
@@ -135,6 +154,9 @@
     - label: >-
         pdf
       url: "/pdf/vijendravarma_2022_drosophila.pdf"
+    - label: >-
+        code
+      url: "https://github.com/janclemenslab/das"
 
 - year: 2021
   authors: >-
