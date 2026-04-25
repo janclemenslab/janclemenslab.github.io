@@ -70,7 +70,8 @@ img {
 }
 
 .container {
-    width: min(calc(100% - 48px), $max-width);
+    width: calc(100% - 48px);
+    max-width: $max-width;
     margin-inline: auto;
 }
 
@@ -700,7 +701,8 @@ img {
 
 @media (max-width: 580px) {
     .container {
-        width: min(calc(100% - 32px), 358px);
+        width: calc(100% - 32px);
+        max-width: 358px;
         margin-left: 16px;
         margin-right: auto;
     }
