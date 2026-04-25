@@ -32,10 +32,10 @@ description: Open-source software and data tools from the Neural Computation and
         <div class="code-project__main">
             <p class="section-kicker">Behavioral data</p>
             <h2>xarray-behave</h2>
-            <p>xarray-behave provides a data format and graphical interface for working with multimodal behavioral recordings. It builds on xarray so that signals, annotations, metadata, and aligned measurements can be represented with labeled dimensions instead of loose arrays and sidecar files.</p>
+            <p>xarray-behave provides the data format and graphical interface used by DAS for inspecting and curating multimodal behavioral recordings. It builds on xarray so that signals, annotations, metadata, and aligned measurements can be represented with labeled dimensions instead of loose arrays and sidecar files.</p>
             <ul class="code-project__details">
                 <li>Organize behavioral datasets with explicit coordinates, dimensions, and metadata.</li>
-                <li>Keep audio, video-derived measurements, stimulus timing, and annotations aligned in one analysis-friendly structure.</li>
+                <li>Keep audio, poses, video-derived measurements, stimulus timing, and annotations aligned in one analysis-friendly structure.</li>
                 <li>Use the GUI and examples as a starting point for inspecting and curating complex experiments.</li>
                 <li>Share reproducible data workflows around a standard Python data model.</li>
             </ul>
@@ -43,6 +43,7 @@ description: Open-source software and data tools from the Neural Computation and
         <aside class="code-project__links" aria-label="xarray-behave resources">
             <p class="code-project__label">Resources</p>
             <a href="https://github.com/janclemenslab/xarray-behave">GitHub repository</a>
+            <a href="https://docs.xarray.dev/">xarray</a>
         </aside>
     </article>
 
@@ -72,14 +73,12 @@ description: Open-source software and data tools from the Neural Computation and
             <p>Additional repositories include project-specific analysis code, smaller helper packages, and experimental tools that support ongoing lab work. Publication pages also link to code and data when they are available for a specific study.</p>
             <ul class="code-project__details">
                 <li>Browse the lab organization for shared packages, analysis projects, and documentation sources.</li>
-                <li>Check Jan's personal GitHub for older tools, prototypes, and related open-source work.</li>
                 <li>Use repository issues for bug reports, installation problems, or feature requests on maintained projects.</li>
             </ul>
         </div>
         <aside class="code-project__links" aria-label="Additional repository links">
             <p class="code-project__label">Resources</p>
             <a href="https://github.com/janclemenslab">Lab GitHub</a>
-            <a href="https://github.com/postpop">Jan's GitHub</a>
         </aside>
     </article>
 </div>

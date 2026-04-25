@@ -20,6 +20,12 @@ body_class: page-research
     </section>
 
     <section class="research-topic">
+        <p class="section-kicker">Connectome-constrained modeling</p>
+        <h2>Testing how neural network structure shapes computation.</h2>
+        <p class="research-topic__text">We build network models constrained by connectome data to ask how circuit architecture supports acoustic processing, social decisions, and navigation. These models let us compare candidate mechanisms against anatomy, neural activity, and behavior, and identify circuit motifs that are sufficient to explain computation.</p>
+    </section>
+
+    <section class="research-topic">
         <p class="section-kicker">Evolution of acoustic communication</p>
         <h2>Comparing the circuits that drive song structure and recognition.</h2>
         <p class="research-topic__text">Across species, communication systems evolve through changes in signals, receivers, and the neural networks that link them. We study how networks driving social interactions, song structure, and song recognition vary and how that variation can produce new acoustic communication systems.</p>
