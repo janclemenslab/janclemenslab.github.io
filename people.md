@@ -1,17 +1,14 @@
 ---
 layout: default
 title: People
+body_class: page-people
 ---
-
-## People
 
 We are looking for people with diverse backgrounds (e.g. neuroscience, molecular or evolutionary biology, computer science, physics) to join the lab. Contact Jan if you're interested in working with us.
 
 | Jan Clemens | group leader | |
 | Ulrike Langemann | independent research scientist| |
 | Madhura Ketkar | postdoc | |
-| Adrian Palacios | postdoc | |
-| Sarath Ravindran | postdoc | |
 | Dae Sung Cho | graduate student | |
 | Melanie Stenger | graduate student | |
 | Dawn J Tan | graduate student | |
@@ -19,13 +16,16 @@ We are looking for people with diverse backgrounds (e.g. neuroscience, molecular
 | Bjarne Schultze | graduate student | |
 | Mahalakshmi Ramadas | guest scientist | |
 | Susanne Gross | lab tech | |
-| Jan Schöning | lab tech | |
 
-<!-- Alumni
+### Alumni
 
-| Kimia Alizadeh | now research scientist in Freiburg ||
-| Winston Mann | former graduate student ||
-| Deniz Yuezak | former graduate student | |
-| Afshin Khalili | now product manager with Miltenyi | |
-| Elsa Steinfath | former graduate student | |
-| Julian Rottschäfer | former graduate student | | -->
+| Sarath Ravindran | postdoc | now with Carsten Mehring (Freiburg) |
+| Adrian Palacios | former postdoc | now with Benjamin Judkewitz (Berlin) |
+| Sudeshna Das | postdoc | now with Silke Sachse (Würzburg) |
+| Jan Schöning | lab tech | now with Frederic Roemschied (Göttingen)|
+| Kimia Alizadeh | lab tech | now with Bodo Grimbacher (Freiburg) ||
+| Afshin Khalili | postdoc | now product manager at Miltenyi | |
+| Elsa Steinfath | graduate student | now with Frederic Roemschied   (Göttingen) |
+| Winston Mann | graduate student ||
+| Deniz Yuezak | graduate student | |
+| Julian Rottschäfer | graduate student | |
