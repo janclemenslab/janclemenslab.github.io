@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Code & Data
+title: Code
 body_class: page-code
 description: Open-source software and data tools from the Neural Computation and Behavior lab.
 ---
 
-<p class="code-intro">We build open-source tools for acoustic annotation, behavioral experiment control, and multimodal data analysis. Most packages are developed alongside lab projects, but we keep them reusable for researchers working with audio, behavior, and experimental hardware.</p>
+<p class="code-intro">We build open-source tools for audio annotation, behavioral experiment control, and multimodal data analysis. Most packages are developed alongside lab projects, but we keep them reusable for researchers working with audio, behavior, and experimental hardware.</p>
 
 <div class="code-projects">
     <article class="code-project">
