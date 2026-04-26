@@ -28,6 +28,11 @@
         <header class="site-header">
             <div class="container site-header__inner">
                 <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+                <input class="site-nav-toggle" id="site-nav-toggle" type="checkbox" aria-label="Toggle main navigation">
+                <label class="nav-toggle" for="site-nav-toggle">
+                    <span class="nav-toggle__icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Menu</span>
+                </label>
                 <nav class="site-nav" aria-label="Main navigation">
                     {% for x in site.data.nav %}
                         <a class="nav-link" href="{{ x.link | relative_url }}">{{ x.name }}</a>
