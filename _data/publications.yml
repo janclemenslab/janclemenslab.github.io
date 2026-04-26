@@ -1,6 +1,21 @@
 # Publications are rendered by publications.md through _includes/publication.html.
 # Keep entries newest first. Markdown is supported in authors, title, and citation.
 
+- year: 2026
+  authors: >-
+    __Sarath R Nair__, __Adrián Palacios-Muñoz__, Sage Martineau, Malak Nasr, __Jan Clemens__
+  title: >-
+    Sex-specific behavioral feedback modulates sensorimotor processing and drives flexible social behavior
+  citation: >-
+    __2026__, accepted at Nature Communications
+  links:
+    - label: >-
+        preprint
+      url: "https://www.biorxiv.org/content/10.1101/2025.05.08.652884v3"
+    - label: >-
+        code
+      url: "https://github.com/janclemenslab/socialUMAP"
+
 - year: 2025
   authors: >-
     Stefan Dahlhoff, Sander Liessem, Fathima Mukthar Iqbal, __Adrián Palacios-Muñoz__, Federico Cascino-Milani, Mert Erginkaya, Aleyna M Diniz, E Axel Gorostiza, Ansgar Büschges, __Jan Clemens__, and Jan M Ache
@@ -43,21 +58,6 @@
         code
       url: "https://github.com/janclemenslab/song-taste-integration
 "
-- year: 2025
-  authors: >-
-    __Sarath R Nair__, __Adrián Palacios-Muñoz__, Sage Martineau, Malak Nasr, __Jan Clemens__
-  title: >-
-    Sex-specific behavioral feedback modulates sensorimotor processing and drives flexible social behavior
-  citation: >-
-    __2025__, accepted at Nature Communications
-  links:
-    - label: >-
-        preprint
-      url: "https://www.biorxiv.org/content/10.1101/2025.05.08.652884v3"
-    - label: >-
-        code
-      url: "https://github.com/janclemenslab/socialUMAP"
-
 - year: 2025
   authors: >-
     Giacomo Costalunga, Carolina C Sanchez, Jonathan I Benichov, Colin Cross, __Jan Clemens__, Daniela Vallentin
