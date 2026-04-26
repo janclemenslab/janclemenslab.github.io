@@ -27,7 +27,7 @@ body_class: home-page
             <article class="research-card">
                 <p class="card-index">01</p>
                 <h3>Acoustic communication</h3>
-                <p>Senders produce temporally structured songs. Receivers parse those signals to infer identity, quality, and context.</p>
+                <p>Signals are produced and interpreted to guide behavior, which in turn feeds back to shape future signals.</p>
             </article>
             <article class="research-card">
                 <p class="card-index">02</p>
@@ -62,7 +62,7 @@ body_class: home-page
 
 <section class="section join-band">
     <div class="container join-band__inner">
-        <h2>We welcome people from neuroscience, biology, computer science, physics, and related fields.</h2>
+        <h2>We welcome people from neuroscience, biology, computer science, engineering, physics, and related fields.</h2>
         <a class="button button-primary" href="{{ '/people' | relative_url }}">People and openings</a>
     </div>
 </section>

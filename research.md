@@ -16,30 +16,26 @@ body_class: page-research
     <section class="research-topic" id="neural-basis-of-communication">
         <p class="section-kicker">Neural basis of communication</p>
         <h2>Linking acoustic signals to neural computation and behavior.</h2>
-        <p class="research-topic__text">We investigate how nervous systems encode communication signals, extract behaviorally relevant features, and route sensory information to circuits that shape social decisions. This work connects stimulus structure, neural responses, and the actions animals choose during communication.</p>
-    </section>
-
-    <section class="research-topic" id="connectome-constrained-modeling">
-        <p class="section-kicker">Connectome-constrained modeling</p>
-        <h2>Testing how neural network perform computation.</h2>
-        <p class="research-topic__text">We build network models constrained by connectome data to ask how circuit architecture supports acoustic processing, social decisions, and navigation. These models let us compare candidate mechanisms against anatomy, neural activity, and behavior, and identify circuit motifs that are sufficient to explain computation.</p>
+        <p class="research-topic__text">
+            We investigate how nervous systems encode multimodal social cues, extract behaviorally relevant features, and route sensory information to circuits that shape social decisions. Using genetic manipulations, optogenetics, and optical physiology, we link stimulus structure, neural responses, and behavior. To test how these computations arise, we build connectome-constrained network models, enabling direct comparison of candidate mechanisms with anatomy, neural activity, and behavior.
+        </p>
     </section>
 
     <section class="research-topic" id="evolution-of-acoustic-communication">
         <p class="section-kicker">Evolution of acoustic communication</p>
         <h2>Comparing the circuits for acoustic communication across species.</h2>
-        <p class="research-topic__text">Across species, communication systems evolve through changes in signals, receivers, and the neural networks that link them. We study how networks driving social interactions, song structure, and song recognition vary and how that variation can produce new acoustic communication systems.</p>
+        <p class="research-topic__text">Across species, communication systems evolve through changes in signals, receivers, and the neural networks that link them. We study how the networks that shape social interactions, song structure, and song recognition vary across species and how that variation can produce new acoustic communication systems.</p>
     </section>
 
     <section class="research-topic" id="group-behavior">
         <p class="section-kicker">Group behavior</p>
         <h2>From courtship interactions to collective neural data.</h2>
-        <p class="research-topic__text">We study fly courtship in groups to understand how communication changes in social settings. In collaborative work on bats, we connect group behavior with neural data to ask how animals coordinate social interactions when signals, movement, and context all change over time.</p>
+        <p class="research-topic__text">We study social behavior in groups to understand how communication is modulated across different social settings. We connect group behavior with genetic manipulations and neural data to ask how animals coordinate social interactions in the complex social environments of groups.</p>
     </section>
 
     <section class="research-topic" id="animal-navigation">
         <p class="section-kicker">Animal navigation</p>
         <h2>Modeling navigation circuits for Navisense and robotics.</h2>
-        <p class="research-topic__text">As part of Navisense, we work on models of the insect central complex and their application to robots. This project uses compact neural circuit principles to understand how animals orient and navigate, and to test those principles in embodied systems.</p>
+        <p class="research-topic__text">As part of Navisense, we work on models of the insect central complex and their application to robots. This project uses compact neural circuits to understand how animals orient and navigate, and to test the underlying principles in embodied systems.</p>
     </section>
 </div>
