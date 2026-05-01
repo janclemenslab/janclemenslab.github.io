@@ -1,6 +1,22 @@
 # Publications are rendered by publications.md through _includes/publication.html.
 # Keep entries newest first. Markdown is supported in authors, title, and citation.
 
+
+- year: 2026
+  authors: >-
+    Stefan Dahlhoff, Sander Liessem, Fathima Mukthar Iqbal, __Adrián Palacios-Muñoz__, Federico Cascino-Milani, Mert Erginkaya, Aleyna M Diniz, E Axel Gorostiza, Ansgar Büschges, __Jan Clemens__, and Jan M Ache
+  title: >-
+    Control of walking direction by descending and dopaminergic neurons in _Drosophila_
+  citation: >-
+    __2026__, accepted at Current Biology
+  links:
+    - label: >-
+        preprint
+      url: "https://www.biorxiv.org/content/10.1101/2025.07.22.666129v1"
+    - label: >-
+        code
+      url: "https://github.com/janclemenslab/glm_utils"
+
 - year: 2026
   authors: >-
     __Sarath R Nair__, __Adrián Palacios-Muñoz__, Sage Martineau, Malak Nasr, __Jan Clemens__
@@ -18,18 +34,41 @@
 
 - year: 2025
   authors: >-
-    Stefan Dahlhoff, Sander Liessem, Fathima Mukthar Iqbal, __Adrián Palacios-Muñoz__, Federico Cascino-Milani, Mert Erginkaya, Aleyna M Diniz, E Axel Gorostiza, Ansgar Büschges, __Jan Clemens__, and Jan M Ache
+    __Elsa Steinfath__, __Afshin Khalili__ (co-first author), __Melanie Stenger__, __Bjarne L Schultze__, __Sarath N Ravindran__, __Kimia Alizadeh__, __Jan Clemens__
   title: >-
-    Control of walking direction by descending and dopaminergic neurons in _Drosophila_
+    A neural circuit for context-dependent multimodal signaling in _Drosophila_
   citation: >-
-    __2025__, in revision
+    __2025__, Nature Communications
+  citation_url: "https://www.nature.com/articles/s41467-025-64907-9"
   links:
     - label: >-
+        pdf
+      url: "/pdf/Steinfath_2025_neural.pdf"
+    - label: >-
         preprint
-      url: "https://www.biorxiv.org/content/10.1101/2025.07.22.666129v1"
+      url: "https://doi.org/10.1101/2024.12.04.625245"
     - label: >-
         code
-      url: "https://github.com/janclemenslab/glm_utils"
+      url: "https://github.com/janclemenslab/vibmodel"
+
+- year: 2025
+  authors: >-
+    __Winston Mann__, Bettina Erregger, Matthias Hennig, __Jan Clemens__
+  title: >-
+    Resonant song recognition and the evolution of acoustic communication in crickets
+  citation: >-
+    __2025__, iScience
+  citation_url: "https://www.cell.com/iscience/fulltext/S2589-0042(24)02922-5"
+  links:
+    - label: >-
+        pdf
+      url: "/pdf/mann_2025_resonant.pdf"
+    - label: >-
+        preprint
+      url: "https://www.biorxiv.org/content/10.1101/2024.07.09.602660v1"
+    - label: >-
+        code
+      url: "https://github.com/janclemenslab/anurogryllus-resonance"
 
 - year: 2025
   authors: >-
@@ -87,44 +126,6 @@
     - label: >-
         code
       url: "https://github.com/janclemenslab/das"
-
-- year: 2025
-  authors: >-
-    __Winston Mann__, Bettina Erregger, Matthias Hennig, __Jan Clemens__
-  title: >-
-    Resonant song recognition and the evolution of acoustic communication in crickets
-  citation: >-
-    __2025__, iScience
-  citation_url: "https://www.cell.com/iscience/fulltext/S2589-0042(24)02922-5"
-  links:
-    - label: >-
-        pdf
-      url: "/pdf/mann_2025_resonant.pdf"
-    - label: >-
-        preprint
-      url: "https://www.biorxiv.org/content/10.1101/2024.07.09.602660v1"
-    - label: >-
-        code
-      url: "https://github.com/janclemenslab/anurogryllus-resonance"
-
-- year: 2025
-  authors: >-
-    __Elsa Steinfath__, __Afshin Khalili__ (co-first author), __Melanie Stenger__, __Bjarne L Schultze__, __Sarath N Ravindran__, __Kimia Alizadeh__, __Jan Clemens__
-  title: >-
-    A neural circuit for context-dependent multimodal signaling in _Drosophila_
-  citation: >-
-    __2025__, Nature Communications
-  citation_url: "https://www.nature.com/articles/s41467-025-64907-9"
-  links:
-    - label: >-
-        pdf
-      url: "/pdf/Steinfath_2025_neural.pdf"
-    - label: >-
-        preprint
-      url: "https://doi.org/10.1101/2024.12.04.625245"
-    - label: >-
-        code
-      url: "https://github.com/janclemenslab/vibmodel"
 
 - year: 2023
   authors: >-
