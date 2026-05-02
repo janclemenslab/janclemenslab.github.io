@@ -4,7 +4,7 @@ title: People
 body_class: page-people
 ---
 
-We welcome for people with diverse backgrounds (e.g. neuroscience, molecular or evolutionary biology, computer science, physics). Get in touch if you're interested in working with us.
+We welcome people with diverse backgrounds (e.g. neuroscience, molecular or evolutionary biology, computer science, engineering, physics). Get in touch if you're interested in working with us.
 
 | Jan Clemens | group leader | |
 | Ulrike Langemann | independent research scientist| |
