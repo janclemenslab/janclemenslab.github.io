@@ -2,6 +2,23 @@
 # Keep entries newest first. Markdown is supported in authors, title, and citation.
 
 
+
+- year: 2026
+  authors: >-
+    __Jan Clemens__
+  title: >-
+    `Etho`: A Python framework for coordinating stimuli, data acquisition, and hardware control in neuroscience experiments
+  citation: >-
+    __2026__, submitted
+  links:
+    - label: >-
+        preprint
+      url: "https://github.com/janclemenslab/etho/blob/master/paper/paper.md"
+    - label: >-
+        code
+      url: "https://github.com/janclemenslab/etho"
+
+
 - year: 2026
   authors: >-
     Stefan Dahlhoff, Sander Liessem, Fathima Mukthar Iqbal, __Adrián Palacios-Muñoz__, Federico Cascino-Milani, Mert Erginkaya, Aleyna M Diniz, E Axel Gorostiza, Ansgar Büschges, __Jan Clemens__, and Jan M Ache
