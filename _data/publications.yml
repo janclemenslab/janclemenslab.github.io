@@ -1,6 +1,27 @@
 # Publications are rendered by publications.md through _includes/publication.html.
 # Keep entries newest first. Markdown is supported in authors, title, and citation.
 
+- year: 2026
+  authors: >-
+    __Elsa Steinfath__, __Jan Clemens__
+  title: >-
+    Abdominal-B neurons selectively drive vibrations in _Drosophila_
+  citation: >-
+    __2026__, submitted
+  links:
+    - label: >-
+        biorxiv preprint
+      url: ""
+    - label: >-
+        pdf
+      url: "pdf/Steinfath_2026_abdb.pdf"
+    - label: >-
+        code
+      url: "https://github.com/janclemenslab/etho"
+    - label: >-
+        code
+      url: "https://github.com/janclemenslab/das"
+
 
 
 - year: 2026
