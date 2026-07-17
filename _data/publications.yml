@@ -11,7 +11,7 @@
   links:
     - label: >-
         biorxiv preprint
-      url: ""
+      url: "https://doi.org/10.64898/2026.07.12.737445"
     - label: >-
         pdf
       url: "pdf/Steinfath_2026_abdb.pdf"
@@ -21,7 +21,6 @@
     - label: >-
         code
       url: "https://github.com/janclemenslab/das"
-
 
 
 - year: 2026
@@ -46,7 +45,8 @@
   title: >-
     Control of walking direction by descending and dopaminergic neurons in _Drosophila_
   citation: >-
-    __2026__, accepted at Current Biology
+    __2026__, Current Biology
+  citation_url: "https://doi.org/10.1016/j.cub.2026.06.045"
   links:
     - label: >-
         preprint
@@ -54,6 +54,7 @@
     - label: >-
         code
       url: "https://github.com/janclemenslab/glm_utils"
+
 
 - year: 2026
   authors: >-
