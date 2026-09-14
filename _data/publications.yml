@@ -3,6 +3,27 @@
 
 - year: 2026
   authors: >-
+    __Jan Clemens__, Mala Murthy
+  title: >-
+    Quadratic and adaptive computations yield an efficient representation of song in _Drosophila_ auditory receptor neurons
+  citation: >-
+    __2021__, in review
+  links:
+    - label: >-
+        preprint
+      url: "https://www.biorxiv.org/content/10.1101/2021.05.26.445391v2"
+    - label: >-
+        pdf
+      url: "/pdf/clemens_2026_quadratic.pdf"
+    - label: >-
+        code and data
+      url: "https://github.com/janclemenslab/quadratic-adaptive"
+    - label: >-
+        more code
+      url: "https://github.com/janclemenslab/glm_utils/blob/master/demo/quadratic_filter.ipynb"
+
+- year: 2026
+  authors: >-
     __Elsa Steinfath__, __Kimia Alizadeh__, __Jan Clemens__
   title: >-
     Abdominal-B neurons selectively drive vibrations in _Drosophila_
@@ -210,27 +231,6 @@
     - label: >-
         code
       url: "https://github.com/janclemenslab/das"
-
-- year: 2021
-  authors: >-
-    __Jan Clemens__, Mala Murthy
-  title: >-
-    Quadratic and adaptive computations yield an efficient representation of song in _Drosophila_ auditory receptor neurons
-  citation: >-
-    __2021__, in review
-  links:
-    - label: >-
-        preprint
-      url: "https://www.biorxiv.org/content/10.1101/2021.05.26.445391v1"
-    - label: >-
-        pdf
-      url: "/pdf/clemens_2021_quadratic.pdf"
-    - label: >-
-        code and data
-      url: "https://github.com/janclemenslab/quadratic-adaptive"
-    - label: >-
-        more code
-      url: "https://github.com/janclemenslab/glm_utils/blob/master/demo/quadratic_filter.ipynb"
 
 - year: 2021
   authors: >-
