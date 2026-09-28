@@ -8,17 +8,18 @@ We welcome people with diverse backgrounds (e.g. neuroscience, molecular or evol
 
 | Jan Clemens | group leader | |
 | Ulrike Langemann | independent research scientist| |
+| Susanne Gross | lab tech | |
 | Madhura Ketkar | postdoc | |
-| Dae Sung Cho | graduate student | |
-| Melanie Stenger | graduate student | |
 | Dawn J Tan | graduate student | |
 | Amir Naderi | graduate student | |
 | Bjarne Schultze | graduate student | |
+| Shrutika Lokkapure | graduate student | |
 | Mahalakshmi Ramadas | guest scientist | |
-| Susanne Gross | lab tech | |
 
 ### Alumni
 
+| Melanie Stenger | graduate student | |
+| Dae Sung Cho | graduate student | |
 | Sarath Ravindran | postdoc | now with Carsten Mehring (Freiburg) |
 | Adrian Palacios | former postdoc | now with Benjamin Judkewitz (Berlin) |
 | Sudeshna Das | postdoc | now with Silke Sachse (Würzburg) |

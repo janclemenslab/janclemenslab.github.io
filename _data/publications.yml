@@ -3,6 +3,27 @@
 
 - year: 2026
   authors: >-
+    __Winston Mann__, __Daesung Cho__, Dave Gray, Matthias Henning, __Jan Clemens__,
+  title: >-
+    A shared circuit architecture for multiscale signal recognition in crickets
+  citation: >-
+    __2026__, submitted
+  links:
+    - label: >-
+        preprint
+      url: "https://www.biorxiv.org/content/10.1101/2026.09.28.754905"
+    - label: >-
+        pdf
+      url: "/pdf/mann_2026_shared.pdf"
+    - label: >-
+        code and data
+      url: "https://github.com/janclemenslab/cricket-chirps"
+    - label: >-
+        original model
+      url: "https://github.com/janclemenslab/cricketnet"
+
+- year: 2026
+  authors: >-
     __Jan Clemens__, Mala Murthy
   title: >-
     Quadratic and adaptive computations yield an efficient representation of song in _Drosophila_ auditory receptor neurons
