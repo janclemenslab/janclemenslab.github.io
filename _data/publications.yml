@@ -1,6 +1,30 @@
 # Publications are rendered by publications.md through _includes/publication.html.
 # Keep entries newest first. Markdown is supported in authors, title, and citation.
 
+
+- year: 2026
+  authors: >-
+    Giacomo Costalunga, __Jan Clemens__, Edward Hurme, Mirjam Knörnschild, Saikat Ray, Danilo Russo, Constance Scharff, Joe Wynn, Yossi Yovel, Daniela Vallentin
+  title: >-
+    A new blueprint for Neuroecology: let’s meet the animals where they behave
+  citation: >-
+    __2026__, in revision
+
+- year: 2026
+  authors: >-
+    Giacomo Costalunga, Carolina C Sanchez, Jonathan I Benichov, Colin Cross, __Jan Clemens__, Daniela Vallentin
+  title: >-
+    Attuning to song duels facilitates song-matching in nightingales
+  citation: >-
+    __2026__, accepted at Science
+  links:
+    - label: >-
+        biorxiv preprint
+      url: "https://www.biorxiv.org/content/10.1101/2025.04.12.648496v1"
+    - label: >-
+        code
+      url: "https://github.com/janclemenslab/das"
+
 - year: 2026
   authors: >-
     __Winston Mann__, __Daesung Cho__, Dave Gray, Matthias Henning, __Jan Clemens__,
@@ -190,21 +214,6 @@
     - label: >-
         code
       url: "https://github.com/janclemenslab/song-taste-integration
-"
-- year: 2025
-  authors: >-
-    Giacomo Costalunga, Carolina C Sanchez, Jonathan I Benichov, Colin Cross, __Jan Clemens__, Daniela Vallentin
-  title: >-
-    Attuning to song duels facilitates song-matching in nightingales
-  citation: >-
-    __2025__, submitted
-  links:
-    - label: >-
-        biorxiv preprint
-      url: "https://www.biorxiv.org/content/10.1101/2025.04.12.648496v1"
-    - label: >-
-        code
-      url: "https://github.com/janclemenslab/das"
 
 - year: 2025
   authors: >-
